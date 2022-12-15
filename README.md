@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to AuxXxilium Tech Github 👋
+
+<figure><embed src="https://wakatime.com/share/@faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c/3804150a-243f-4365-b03b-aa035b5352f2.svg"></embed></figure>
 
 <!--
 **AuxXxilium/AuxXxilium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
