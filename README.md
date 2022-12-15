@@ -1,10 +1,10 @@
-### Welcome to AuxXxilium Tech Github 👋
+## Welcome to AuxXxilium Tech Github 👋
 
 ## Arc Project Status:
-# Stable: [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml)
-# Dev: [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg?branch=dev)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml)
+### Stable: [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml)
+### Dev: [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg?branch=dev)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml)
 
-## Arc Project Stats: [![wakatime](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c/project/c68fca05-680c-4fcf-a149-bd707089111b.svg)](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c/project/c68fca05-680c-4fcf-a149-bd707089111b)
+#### Arc Project Stats: [![wakatime](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c/project/c68fca05-680c-4fcf-a149-bd707089111b.svg)](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c/project/c68fca05-680c-4fcf-a149-bd707089111b)
 
 <figure><embed src="https://wakatime.com/share/@faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c/3804150a-243f-4365-b03b-aa035b5352f2.svg"></embed></figure>
 
