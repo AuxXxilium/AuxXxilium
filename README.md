@@ -1,4 +1,4 @@
-## Welcome to AuxXxilium Tech Github 👋
+## Welcome to AuxXxilium Tech @ Github 👋
 
 ## Arc Project Status:
 ### Stable:             [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml)
