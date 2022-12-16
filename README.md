@@ -1,8 +1,8 @@
 ## Welcome to AuxXxilium Tech @ Github 👋
 
 ## Arc Project Status:
-### Stable:             [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml)
-### Dev:                [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg?branch=dev)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml)
+### ARC:             [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml)
+### ARC Automated:   [![Build image](https://github.com/AuxXxilium/arc-automated/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc-automated/actions/workflows/main.yml)
 
 <!--
 **AuxXxilium/AuxXxilium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
