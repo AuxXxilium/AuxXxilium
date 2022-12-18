@@ -2,12 +2,12 @@
 
 ## Arc Project and Arc Automated Project
 
-- ARC is a new customized Redpill Loader for DSM 7 (Xpenology) with enhanced Hardwaresupport, Addons and semi-automated Installation.
-- ARC Automated is a new customized Redpill Loader for DSM 7 (Xpenology) with enhanced Hardwaresupport, Addons and full-automated Installation.
+- <a href="https://github.com/AuxXxilium/arc">ARC</a> is a new customized Redpill Loader for DSM 7 (Xpenology) with enhanced Hardwaresupport, Addons and semi-automated Installation.
+- <a href="https://github.com/AuxXxilium/arc-automated">ARC Automated</a> is a new customized Redpill Loader for DSM 7 (Xpenology) with enhanced Hardwaresupport, Addons and full-automated Installation.
 
 ## Arc Project Status:
-### ARC:             [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml)
-### ARC Automated:   [![Build image](https://github.com/AuxXxilium/arc-automated/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc-automated/actions/workflows/main.yml)
+### Arc:             [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml)
+### Arc Automated:   [![Build image](https://github.com/AuxXxilium/arc-automated/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc-automated/actions/workflows/main.yml)
 
 <!--
 **AuxXxilium/AuxXxilium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
