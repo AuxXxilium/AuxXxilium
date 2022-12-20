@@ -9,6 +9,9 @@
 ### Arc:             [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml)
 ### Arc Automated:   [![Build image](https://github.com/AuxXxilium/arc-automated/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc-automated/actions/workflows/main.yml)
 
+### Arc Time since 22.12.15: [![wakatime](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c.svg)](https://wakatime.com/@faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c)
+
+
 <!--
 **AuxXxilium/AuxXxilium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
