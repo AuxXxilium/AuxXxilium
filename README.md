@@ -9,7 +9,7 @@
 
 ### Arc Redpill Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest"><img src="https://github.com/AuxXxilium/AuxXxilium/blob/main/download-button.png" alt="Latest release" title="Latest release"></a>
 
-Arc Automated Redpill Loader:   <a href="https://github.com/AuxXxilium/arc-automated/releases/latest"><img src="https://github.com/AuxXxilium/AuxXxilium/blob/main/download-button.png" alt="Latest release" title="Latest release"></a>
+### Arc Automated Redpill Loader:   <a href="https://github.com/AuxXxilium/arc-automated/releases/latest"><img src="https://github.com/AuxXxilium/AuxXxilium/blob/main/download-button.png" alt="Latest release" title="Latest release"></a>
 
 ---
 
