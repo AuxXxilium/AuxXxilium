@@ -5,7 +5,7 @@
 - <a href="https://github.com/AuxXxilium/arc">Arc</a> is a new customized Redpill Loader for DSM 7 (Xpenology) with enhanced Hardwaresupport, Addons and semi-automated Installation.
 - <a href="https://github.com/AuxXxilium/arc-automated">Arc Automated</a> is a new customized Redpill Loader for DSM 7 (Xpenology) with enhanced Hardwaresupport, Addons and full-automated Installation.
 
-## Arc Project Status:
+## Arc Project:
 
 ### Arc Redpill Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest"><img src="https://github.com/AuxXxilium/AuxXxilium/blob/main/button.png" alt="Latest release" title="Latest release"></a>
 
@@ -13,7 +13,9 @@
 
 ---
 
-### Arc Build Status: Arc: [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml)
+## Arc Build Status:
+
+### Arc: [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml)
 
 ### Arc Automated: [![Build image](https://github.com/AuxXxilium/arc-automated/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc-automated/actions/workflows/main.yml)
 
