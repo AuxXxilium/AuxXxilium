@@ -6,8 +6,7 @@
 - <a href="https://github.com/AuxXxilium/arc-automated">Arc Automated</a> is a new customized Redpill Loader for DSM 7 (Xpenology) with enhanced Hardwaresupport, Addons and full-automated Installation.
 
 ## Arc Project Status:
-### Arc:             <a href="https://github.com/AuxXxilium/arc/releases/latest"><img src="http://gpuopen-librariesandsdks.github.io/media/latest-release-button.svg" alt="Latest release" title="Latest release"></a>
-### Arc Automated:   <a href="https://github.com/AuxXxilium/arc-automated/releases/latest"><img src="http://gpuopen-librariesandsdks.github.io/media/latest-release-button.svg" alt="Latest release" title="Latest release"></a>
+### Arc Download:             <a href="https://github.com/AuxXxilium/arc/releases/latest"><img src="http://gpuopen-librariesandsdks.github.io/media/latest-release-button.svg" alt="Latest release" title="Latest release"></a> || Arc Automated Download:   <a href="https://github.com/AuxXxilium/arc-automated/releases/latest"><img src="http://gpuopen-librariesandsdks.github.io/media/latest-release-button.svg" alt="Latest release" title="Latest release"></a>
 
 ### Arc Build Status: Arc: [![Build image](https://github.com/AuxXxilium/arc/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc/actions/workflows/main.yml) || Arc Automated: [![Build image](https://github.com/AuxXxilium/arc-automated/actions/workflows/main.yml/badge.svg)](https://github.com/AuxXxilium/arc-automated/actions/workflows/main.yml)
 
