@@ -23,4 +23,4 @@
 
 ## Github Stats:
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AuxXxilium&show_icons=true&theme=react&hide_title=true)  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AuxXxilium&theme=react&layout=compact)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AuxXxilium&show_icons=true&theme=react&hide_title=true)
