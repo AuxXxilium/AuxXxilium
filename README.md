@@ -3,7 +3,6 @@
 ## Arc Project and Arc Automated Project
 
 - <a href="https://github.com/AuxXxilium/arc">Arc</a> is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwaresupport, Addons and semi-automated Installation (automated SataPortMap and Disk configuration). User interaction required and more customization options. Recommended for User that have access to the Machine (Homesystems).
-- <a href="https://github.com/AuxXxilium/arc-automated">Arc Automated</a> is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwaresupport, Addons and full-automated Installation. No user interaction required but has user customization options. Recommended for User that have no access to the Machine (Datacenter).
 
 - <a href="https://github.com/AuxXxilium/AuxXxilium/wiki">Wiki and Informations</a>
 
