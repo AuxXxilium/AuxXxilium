@@ -12,8 +12,6 @@
 
 ### Arc Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest"><img src="https://github.com/AuxXxilium/AuxXxilium/blob/main/button.png" alt="Latest release" title="Latest release"></a>
 
-### Arc Automated Loader:   <a href="https://github.com/AuxXxilium/arc-automated/releases/latest"><img src="https://github.com/AuxXxilium/AuxXxilium/blob/main/button.png" alt="Latest release" title="Latest release"></a>
-
 ---
 
 ### Arc Codingtime since 2022.12.17: [![wakatime](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c.svg)](https://wakatime.com/@faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c)
