@@ -10,7 +10,7 @@
 
 ## Arc Download:
 
-### Arc Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest"><img src="https://github.com/AuxXxilium/AuxXxilium/blob/main/download.png?raw=true" alt="Latest release" title="Latest release"></a>
+### Arc Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest">Download Latest release</a>
 
 ---
 
