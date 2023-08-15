@@ -6,6 +6,8 @@
 
 - <a href="https://github.com/AuxXxilium/AuxXxilium/wiki">Wiki and Informations</a>
 
+- <a href="https://discord.auxxxilium.tech">Changelog</a> will be found in Discord
+
 - <a href="https://auxxxilium.tech">Website (german)</a>
 
 ## Arc Download:
