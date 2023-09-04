@@ -8,6 +8,24 @@
 
 - <a href="https://auxxxilium.tech">Website (german)</a>
 
+
+### Arc Subrepos
+
+-  <a href="https://github.com/AuxXxilium/arc-addons)">Arc Addons</a>
+
+-  <a href="https://github.com/AuxXxilium/arc-configs)">Arc Configs</a>
+
+-  <a href="https://github.com/AuxXxilium/arc-dsm)">Arc DSM</a>
+
+-  <a href="https://github.com/AuxXxilium/arc-extensions)">Arc Extensions</a>
+
+-  <a href="https://github.com/AuxXxilium/arc-moduless)">Arc Modules</a>
+
+-  <a href="https://github.com/AuxXxilium/arc-patches)">Arc Patches</a>
+
+-  <a href="https://github.com/AuxXxilium/redpill-lkm)">Arc Redpill LKM</a>
+
+
 ## Arc Download:
 
 ### Arc Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest">Latest Release</a>
