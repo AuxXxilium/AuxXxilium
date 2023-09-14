@@ -19,7 +19,7 @@
 
 -  <a href="https://github.com/AuxXxilium/arc-extensions">Arc Extensions</a>
 
--  <a href="https://github.com/AuxXxilium/arc-moduless">Arc Modules</a>
+-  <a href="https://github.com/AuxXxilium/arc-modules">Arc Modules</a>
 
 -  <a href="https://github.com/AuxXxilium/arc-patches">Arc Patches</a>
 
