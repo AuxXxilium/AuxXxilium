@@ -9,7 +9,7 @@
 - <a href="https://auxxxilium.tech">Website (german)</a>
 
 
-### Arc Subrepos
+### Arc Subprojects
 
 -  <a href="https://github.com/AuxXxilium/arc-addons">Arc Addons</a>
 
