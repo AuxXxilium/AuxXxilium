@@ -27,7 +27,7 @@
 
 ### Arc/DSM Apps
 
-- <a href="https://github.com/AuxXxilium/synology-dsm-open-vm-toolss">Open VM Tools</a>
+- <a href="https://github.com/AuxXxilium/synology-dsm-open-vm-tools">Open VM Tools</a>
 
 ## Arc Download:
 
