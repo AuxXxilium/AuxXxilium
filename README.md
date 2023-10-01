@@ -25,6 +25,9 @@
 
 -  <a href="https://github.com/AuxXxilium/redpill-lkm">Arc Redpill LKM</a>
 
+### Arc/DSM Apps
+
+- <a href="https://github.com/AuxXxilium/synology-dsm-open-vm-toolss">Open VM Tools</a>
 
 ## Arc Download:
 
