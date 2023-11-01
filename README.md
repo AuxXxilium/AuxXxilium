@@ -1,8 +1,11 @@
 ## Welcome to the Home of Arc Loader @ AuxXxilium Tech 👋
 
+Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwaresupport, Addons, Extensions, guided(semi-automated) Installation and more customization options are built-in. It is modified to run on different Hardware (see Wiki for more Informations). 
+Commercial use is not permitted and strictly forbidden!
+
 ## Arc Project
 
-- <a href="https://github.com/AuxXxilium/arc">Arc</a> is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwaresupport, Addons and guided Installation. User interaction is required and more customization options are built-in.
+- <a href="https://github.com/AuxXxilium/arc">Arc</a> 
 
 - <a href="https://github.com/AuxXxilium/AuxXxilium/wiki">Wiki and Informations</a>
 
