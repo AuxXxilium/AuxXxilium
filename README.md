@@ -16,6 +16,8 @@ Commercial use is not permitted and strictly forbidden!
 
 -  <a href="https://github.com/AuxXxilium/arc-addons">Arc Addons</a>
 
+-  <a href="https://github.com/AuxXxilium/arc-buildroot">Arc Buildroot</a>
+
 -  <a href="https://github.com/AuxXxilium/arc-configs">Arc Configs</a>
 
 -  <a href="https://github.com/AuxXxilium/arc-dsm">Arc DSM</a>
