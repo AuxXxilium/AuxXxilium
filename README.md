@@ -46,4 +46,4 @@ Commercial use is not permitted and strictly forbidden!
 
 ## Github Stats:
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AuxXxilium&show_icons=true&theme=react&hide_title=true)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AuxXxilium&show_icons=true&theme=react&hide_title=true&include_all_commits=true)
