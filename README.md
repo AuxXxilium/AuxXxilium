@@ -22,8 +22,6 @@ Commercial use is not permitted and strictly forbidden!
 
 -  <a href="https://github.com/AuxXxilium/arc-dsm">Arc DSM</a>
 
--  <a href="https://github.com/AuxXxilium/arc-extensions">Arc Extensions</a>
-
 -  <a href="https://github.com/AuxXxilium/arc-modules">Arc Modules</a>
 
 -  <a href="https://github.com/AuxXxilium/arc-patches">Arc Patches</a>
