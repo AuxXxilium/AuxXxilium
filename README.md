@@ -20,8 +20,6 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwar
 
 -  <a href="https://github.com/AuxXxilium/arc-buildroot">Arc Buildroot</a>
 
--  <a href="https://github.com/AuxXxilium/arc-configs">Arc Configs</a>
-
 -  <a href="https://github.com/AuxXxilium/arc-dsm">Arc DSM</a>
 
 -  <a href="https://github.com/AuxXxilium/arc-modules">Arc Modules</a>
