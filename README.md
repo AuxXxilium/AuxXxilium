@@ -9,8 +9,7 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwar
 
 Arc and DSM are independent from each other! Arc is a User Interface to configure DSM and Boothelper for DSM.
 
-![arc](https://github.com/AuxXxilium/AuxXxilium/assets/67025065/9ab3666f-8acc-4b79-ba44-6fc22bf71ef9)
-
+![arc](https://github.com/AuxXxilium/AuxXxilium/assets/67025065/7a769056-d77d-40fe-a289-c0f0c4bc6644)
 
 
 ## Arc Project
