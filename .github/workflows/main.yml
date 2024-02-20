@@ -16,9 +16,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: true
           COMMIT_USERNAME: AuxXxilium
-          COMMIT_EMAIL: info@visionz.media
+          COMMIT_EMAIL: info@auxxxilium.tech
           SHOW_LOC_CHART: false
-          SHOW_UPDATED_DATE: false
+          SHOW_UPDATED_DATE: true
           SHOW_LINES_OF_CODE: false
           SHOW_TOTAL_CODE_TIME: false
           SHOW_PROFILE_VIEWS: false
