@@ -18,6 +18,8 @@ Arc and DSM are independent from each other! Arc is a User Interface to configur
 
 - <a href="https://github.com/AuxXxilium/arc-a">Arc-A</a> <- Full automated Installation as RS4021xs+
 
+- <a href="https://github.com/AuxXxilium/arc-c">Arc-C</a> <- Full automated Installation as SA6400 with custom Kernel
+
 - <a href="https://github.com/AuxXxilium/AuxXxilium/wiki">Wiki and Informations</a> <- Please read first
 
 - <a href="https://auxxxilium.tech">Website</a> <- German
