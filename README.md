@@ -5,7 +5,7 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwar
 - Commercial use is not permitted and strictly forbidden!!!
 - DSM and all Parts are under Copyright / Ownership or Registered Trademark by Synology Inc.
 
-Hardware/hard-drives are priced whilst data are priceless, any user-specific custom modification of the tested & prebuilt bootloader images could potentially cause irreversible data destruction towards your local machine. I'm not responsibly liable for damage nor personal loss of any types. The project with its affiliation is released for educational and learning purpose only.
+Hardware has a price whilst data are priceless, any user-specific custom modification of the tested & prebuilt bootloader images could potentially cause irreversible data destruction towards your local machine. I'm not responsibly liable for damage or personal loss of any types. The project with its affiliation is released for educational and learning purpose only.
 
 ## How Arc is working
 
