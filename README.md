@@ -16,9 +16,9 @@ Arc and DSM are independent from each other! Arc is a User Interface to configur
 
 ## Arc Project
 
-- <a href="https://github.com/AuxXxilium/arc">Arc</a> <- Customizable Loader for different Models
+- <a href="https://github.com/AuxXxilium/arc">Arc Loader</a> <- Customizable Loader for different Models
 
-- <a href="https://auxxxilium.github.io/arc">Arc Automated Custom</a> <- Prebuilt customizable Loader for different Models
+- <a href="https://auxxxilium.github.io/arc">Arc Loader Custom</a> <- Prebuilt customizable Loader for different Models and automated Installation
 
 - <a href="https://github.com/AuxXxilium/arc-a">Arc-A</a> <- Full automated Installation as RS4021xs+
 
