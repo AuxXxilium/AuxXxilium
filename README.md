@@ -14,7 +14,7 @@ Arc and DSM are independent from each other! Arc is a User Interface to configur
 ![arc](https://github.com/AuxXxilium/AuxXxilium/assets/67025065/7a769056-d77d-40fe-a289-c0f0c4bc6644)
 
 
-## Arc Project - ![downloads](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=flat-square) | ![custom](https://img.shields.io/github/issues-closed-raw/AuxXxilium/arc?style=flat-square&label=custom)
+## Arc Project - ![downloads](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=flat-square) | ![custom](https://img.shields.io/github/issues-closed-raw/AuxXxilium/arc?style=flat-square&label=custom) | [![wakatime](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c.svg)](https://wakatime.com/@faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c)
 
 - <a href="https://github.com/AuxXxilium/arc">Arc Loader</a> <- Customizable Loader for different Models
 
@@ -48,9 +48,6 @@ Arc and DSM are independent from each other! Arc is a User Interface to configur
 ### Arc Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest">Latest Release</a>
 ### Arc Loader Custom:      <a href="https://auxxxilium.github.io/arc">Build your own</a>
 
----
-
-### Arc Codingtime since 12.2023: [![wakatime](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c.svg)](https://wakatime.com/@faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c)
 ---
 
 ## Github Stats:
