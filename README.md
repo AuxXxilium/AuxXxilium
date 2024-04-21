@@ -37,13 +37,13 @@ Arc and DSM are independent from each other! Arc is a User Interface to configur
 
 - <a href="https://github.com/AuxXxilium/synology-dsm-open-vm-tools">Open VM Tools</a>
 
-## Arc Download:
+## Arc Download
 
 ### Arc Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest">Latest Release</a>
 ### Arc Loader Custom:      <a href="https://auxxxilium.github.io/arc">Build your own</a>
 
 ---
 
-## Github Stats:
+## AuxXxilium's Github Stats
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AuxXxilium&show_icons=true&theme=react&hide_title=true&include_all_commits=true)
