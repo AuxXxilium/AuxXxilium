@@ -5,13 +5,9 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwar
 - Commercial use is not permitted and strictly forbidden!!!
 - DSM and all Parts are under Copyright / Ownership or Registered Trademark by Synology Inc.
 
-Hardware has a price whilst data are priceless, any user-specific custom modification of the tested & prebuilt bootloader images could potentially cause irreversible data destruction towards your local machine. I'm not responsibly liable for damage or personal loss of any types. The project with its affiliation is released for educational and learning purpose only.
-
-## How Arc is working
+Hardware has a price whilst data is priceless, any user-specific custom modification of the tested & prebuilt bootloader images could potentially cause irreversible data destruction towards your local machine. I'm not responsibly liable for damage or personal loss of any types. The project with its affiliation is released for educational and learning purpose only.
 
 Arc and DSM are independent from each other! Arc is a User Interface to configure DSM and Boothelper for DSM.
-
-![arc](https://github.com/AuxXxilium/AuxXxilium/assets/67025065/7a769056-d77d-40fe-a289-c0f0c4bc6644)
 
 
 ## Arc Loader Project - ![downloads](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=flat-square) | ![custom](https://img.shields.io/github/issues-closed-raw/AuxXxilium/arc?style=flat-square&label=custom) | [![wakatime](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c.svg)](https://wakatime.com/@faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c)
