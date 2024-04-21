@@ -14,7 +14,7 @@ Arc and DSM are independent from each other! Arc is a User Interface to configur
 ![arc](https://github.com/AuxXxilium/AuxXxilium/assets/67025065/7a769056-d77d-40fe-a289-c0f0c4bc6644)
 
 
-## Arc Project - ![downloads](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=flat-square) | ![custom](https://img.shields.io/github/issues-closed-raw/AuxXxilium/arc?style=flat-square&label=custom) | [![wakatime](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c.svg)](https://wakatime.com/@faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c)
+## Arc Loader Project - ![downloads](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=flat-square) | ![custom](https://img.shields.io/github/issues-closed-raw/AuxXxilium/arc?style=flat-square&label=custom) | [![wakatime](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c.svg)](https://wakatime.com/@faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c)
 
 - <a href="https://github.com/AuxXxilium/arc">Arc Loader</a> <- Customizable Loader for different Models
 
