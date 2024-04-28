@@ -40,7 +40,7 @@ Arc and DSM are independent from each other! Arc is a User Interface to configur
 ## Arc Download
 
 ### Arc Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest">Latest Release</a>
-### Arc Loader Custom:      <a href="https://auxxxilium.github.io/arc">Build your own</a>
+### Arc Loader Custom:      <a href="https://auxxxilium.github.io/arc">Customized Build</a>
 
 ---
 
