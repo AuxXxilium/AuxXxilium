@@ -11,20 +11,27 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 ## Arc Loader Project - ![downloads](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=flat-square) ![custom](https://img.shields.io/github/issues-closed-raw/AuxXxilium/arc?style=flat-square&label=custom) [![wakatime](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c.svg)](https://wakatime.com/@faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c)
 
-+ <a href="https://github.com/AuxXxilium/arc">Arc Loader</a> <- Customizable Loader for different Models
+* <a href="https://github.com/AuxXxilium/arc">Arc Loader</a> <- Customizable Loader for different Models
 * <a href="https://auxxxilium.github.io/arc">Arc Loader Custom</a> <- Prebuilt customizable Loader for different Models and automated Installation
 * <a href="https://github.com/AuxXxilium/AuxXxilium/wiki">Wiki and Informations</a> <- Please read first
 
 
 ### Arc Subprojects
+
 *  <a href="https://github.com/AuxXxilium/arc-addons">Arc Addons</a>
+
 *  <a href="https://github.com/AuxXxilium/arc-buildroot">Arc Buildroot</a>
+
 *  <a href="https://github.com/AuxXxilium/arc-dsm">Arc DSM</a>
+
 *  <a href="https://github.com/AuxXxilium/arc-modules">Arc Modules</a>
+
 *  <a href="https://github.com/AuxXxilium/arc-patches">Arc Patches</a>
+
 *  <a href="https://github.com/AuxXxilium/redpill-lkm">Arc Redpill LKM</a>
 
 ### Arc/DSM Apps
+
 * <a href="https://github.com/AuxXxilium/synology-dsm-open-vm-tools">Open VM Tools</a>
 
 ## Arc Download
