@@ -10,6 +10,13 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 
 ## Arc Loader Project
+
+* <a href="https://github.com/AuxXxilium/arc">Arc Loader</a> <- Customizable Loader for different Models
+
+* <a href="https://auxxxilium.github.io/arc">Arc Loader Custom</a> <- Prebuilt customizable Loader for different Models and automated Installation
+
+* <a href="https://github.com/AuxXxilium/AuxXxilium/wiki">Wiki and Informations</a> <- Please read first
+
 ![GitHub Release](https://img.shields.io/github/v/release/AuxXxilium/arc?sort=date&display_name=release&style=flat-square&logo=github&label=release&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) 
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/AuxXxilium/arc?style=flat-square&logo=github&label=custom%20builds&link=https%3A%2F%2Fauxxxilium.github.io%2Farc%2Fcustom.html) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/AuxXxilium/arc?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc)
@@ -17,12 +24,6 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 ![Discord](https://img.shields.io/discord/639072565155069962?style=flat-square&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.auxxxilium.tech)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOJJM6kvbqc5vytWR-TGu0w?style=flat-square&logo=youtube&label=Youtube&link=https%3A%2F%2Fyoutube.auxxxilium.tech)
 [![wakatime](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c.svg)](https://wakatime.com/@faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c)
-
-* <a href="https://github.com/AuxXxilium/arc">Arc Loader</a> <- Customizable Loader for different Models
-
-* <a href="https://auxxxilium.github.io/arc">Arc Loader Custom</a> <- Prebuilt customizable Loader for different Models and automated Installation
-
-* <a href="https://github.com/AuxXxilium/AuxXxilium/wiki">Wiki and Informations</a> <- Please read first
 
 
 ### Arc Subprojects
