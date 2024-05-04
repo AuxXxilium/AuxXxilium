@@ -40,6 +40,8 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 *  <a href="https://github.com/AuxXxilium/arc-lkm">Arc LKM</a> (based on Redpill LKM)
 
+*  <a href="https://github.com/AuxXxilium/arc-theme">Arc Theme</a>
+
 ### Arc/DSM Apps
 
 * <a href="https://github.com/AuxXxilium/synology-dsm-open-vm-tools">Open VM Tools</a>
