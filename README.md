@@ -38,7 +38,7 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 *  <a href="https://github.com/AuxXxilium/arc-patches">Arc Patches</a>
 
-*  <a href="https://github.com/AuxXxilium/redpill-lkm">Arc Redpill LKM</a>
+*  <a href="https://github.com/AuxXxilium/arc-lkm">Arc LKM based on Redpill LKM</a>
 
 ### Arc/DSM Apps
 
