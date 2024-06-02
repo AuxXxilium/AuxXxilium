@@ -20,23 +20,23 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 ### Arc Subprojects
 
-*  <a href="https://github.com/AuxXxilium/arc-addons">Arc Addons</a>
+*  <a href="https://github.com/AuxXxilium/arc-addons">Arc Addons</a> (Addons for DSM)
 
-*  <a href="https://github.com/AuxXxilium/arc-buildroot">Arc Buildroot</a>
+*  <a href="https://github.com/AuxXxilium/arc-buildroot">Arc Buildroot</a> (Base of Arc Loader)
 
-*  <a href="https://github.com/AuxXxilium/arc-dsm">Arc DSM</a>
+*  <a href="https://github.com/AuxXxilium/arc-dsm">Arc DSM</a> (extracted DSM Data)
 
-*  <a href="https://github.com/AuxXxilium/arc-modules">Arc Modules</a>
+*  <a href="https://github.com/AuxXxilium/arc-modules">Arc Modules</a> (Modules/Driver for DSM)
 
-*  <a href="https://github.com/AuxXxilium/arc-patches">Arc Patches</a>
+*  <a href="https://github.com/AuxXxilium/arc-patches">Arc Patches</a> (Patches to get DSM running)
 
 *  <a href="https://github.com/AuxXxilium/arc-lkm">Arc LKM</a> (based on Redpill LKM)
 
-*  <a href="https://github.com/AuxXxilium/arc-theme">Arc Theme</a>
+*  <a href="https://github.com/AuxXxilium/arc-theme">Arc Theme</a> (Theme for GRUB)
 
 ### Arc/DSM Apps
 
-* <a href="https://github.com/AuxXxilium/synology-dsm-open-vm-tools">Open VM Tools</a>
+* <a href="https://github.com/AuxXxilium/synology-dsm-open-vm-tools">Open VM Tools</a> (VM Tools for VMware ESXi and Workstation)
 
 ## Arc Download
 
