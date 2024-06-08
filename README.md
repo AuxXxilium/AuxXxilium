@@ -15,7 +15,7 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 * <a href="https://auxxxilium.github.io/arc">Arc Loader Custom</a> <- Customizable Loader with automated Installation
 
-* <a href="https://github.com/AuxXxilium/AuxXxilium/wiki">Wiki and Informations</a> <- Please read first
+* <a href="https://auxxxilium.tech/wiki">FAQ & Wiki</a> || <a href="https://github.com/AuxXxilium/AuxXxilium/wiki">Old Wiki</a> <- Read me first
 
 
 ### Arc Subprojects
