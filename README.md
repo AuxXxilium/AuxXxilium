@@ -36,7 +36,7 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 *  <a href="https://github.com/AuxXxilium/arc-theme">Arc Theme</a> (Theme for GRUB)
 
-### Arc/DSM Apps
+### DSM Apps
 
 * <a href="https://github.com/AuxXxilium/synology-dsm-open-vm-tools">Open VM Tools</a> (VM Tools for VMware ESXi and Workstation)
 
@@ -47,7 +47,7 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 ---
 
-## Arc Github Stats
+## Arc Loader Github Stats
 
 ![GitHub Release](https://img.shields.io/github/v/release/AuxXxilium/arc?sort=date&display_name=release&style=for-the-badge&logo=github&label=release&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) 
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/AuxXxilium/arc?style=for-the-badge&logo=github&label=custom%20builds&link=https%3A%2F%2Fauxxxilium.github.io%2Farc%2Fcustom.html) 
