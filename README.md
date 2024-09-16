@@ -63,5 +63,3 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 ## AuxXxilium's Github Stats
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AuxXxilium&show_icons=true&theme=react&hide_title=true&include_all_commits=true)
-
-Coding Time: [![wakatime](https://wakatime.com/badge/user/faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c.svg)](https://wakatime.com/@faedcb8b-e7cf-4ef4-8c9f-d24d6b2de49c)
