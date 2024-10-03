@@ -54,7 +54,6 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 ## Arc Loader Github Stats
 
 ![GitHub Release](https://img.shields.io/github/v/release/AuxXxilium/arc?sort=date&display_name=release&style=for-the-badge&logo=github&label=release&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/AuxXxilium/arc?style=for-the-badge&logo=github&label=custom%20builds&link=https%3A%2F%2Fauxxxilium.github.io%2Farc%2Fcustom.html) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/AuxXxilium/arc?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc)
 
 ![Discord](https://img.shields.io/discord/639072565155069962?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.auxxxilium.tech)
