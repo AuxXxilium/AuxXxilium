@@ -45,9 +45,9 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 ## Arc Download
 
-### Arc Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest">Latest Release</a> (* recommended)
+### Arc Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest">Latest Release</a> (* recommended - Online Connection required!)
 
-### Arc Loader Custom:      <a href="https://auxxxilium.github.io/arc">Automated/Offline Build</a> (* does not include all Features and Options)
+### Arc Loader Custom:      <a href="https://auxxxilium.github.io/arc">Automated/Offline Build</a> (* does not include all Features - Offline Installation possible!)
 
 ---
 
