@@ -12,9 +12,9 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 ## Arc Loader Project
 
-* <a href="https://github.com/AuxXxilium/arc">Arc Loader</a> <- Loader with guided Installation for different Models (Online/Offline)
+* <a href="https://github.com/AuxXxilium/arc">Arc Loader</a> <- Loader with guided Installation for different Models (Online Connection required!)
 
-* <a href="https://auxxxilium.github.io/arc">Arc Loader Custom</a> <- Loader with automated Installation (Online/Offline)
+* <a href="https://auxxxilium.github.io/arc">Arc Loader Custom</a> <- Loader with automated Installation (Offline Installation)
 
 * <a href="https://auxxxilium.tech/wiki" target="_blank">FAQ & Wiki</a> <- Read me first!!!
 
