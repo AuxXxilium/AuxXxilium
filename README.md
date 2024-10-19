@@ -25,7 +25,9 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 *  <a href="https://github.com/AuxXxilium/arc-addons">Arc Addons</a> (Addons for DSM)
 
-*  <a href="https://github.com/AuxXxilium/arc-buildroot-x">Arc Buildroot</a> (Boot System of Arc Loader)
+*  <a href="https://github.com/AuxXxilium/arc-buildroot-x">Arc Buildroot Next</a> (Next Boot System of Arc Loader)
+
+*  <a href="https://github.com/AuxXxilium/arc-buildroot-s">Arc Buildroot Stable</a> (Stable Boot System of Arc Loader)
 
 *  <a href="https://github.com/AuxXxilium/arc-configs">Arc Configs</a> (Model Configs for DSM)
 
