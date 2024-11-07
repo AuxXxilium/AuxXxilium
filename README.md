@@ -12,7 +12,7 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 ## Arc Loader Project
 
-* <a href="https://github.com/AuxXxilium/arc">Arc Loader</a> <- Loader with guided Installation for different Models (Online Connection required!)
+* <a href="https://github.com/AuxXxilium/arc">Arc Loader</a> <- Loader with guided Installation for different Models (Online Connection recommended)
 
 * <a href="https://auxxxilium.github.io/arc">Arc Loader Custom</a> <- Loader with automated Installation (Offline Installation)
 
@@ -37,15 +37,13 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 *  <a href="https://github.com/AuxXxilium/arc-lkm">Arc LKM</a> (based on Redpill LKM)
 
-*  <a href="https://github.com/AuxXxilium/arc-theme">Arc Theme</a> (Theme for GRUB)
-
 ### DSM Apps
 
 * <a href="https://github.com/AuxXxilium/synology-dsm-open-vm-tools">Open VM Tools</a> (VM Tools for VMware ESXi and Workstation)
 
 ## Arc Download
 
-### Arc Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest">Latest Release</a> (* recommended - Online Connection required!)
+### Arc Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest">Latest Release</a> (* recommended - Online Connection recommended!)
 
 ### Arc Loader Custom:      <a href="https://auxxxilium.github.io/arc">Automated/Offline Build</a> (* reduced Features - Offline Installation possible!)
 
