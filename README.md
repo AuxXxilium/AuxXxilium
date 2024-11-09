@@ -19,7 +19,7 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 * <a href="https://auxxxilium.tech/wiki" target="_blank">FAQ & Wiki</a> <- Read me first!!!
 
 
-### Arc Subprojects
+### Arc Dependencies
 
 *  <a href="https://github.com/AuxXxilium/arc-addons">Arc Addons</a> (Addons for DSM)
 
