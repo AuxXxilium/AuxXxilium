@@ -41,7 +41,9 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 ### Arc Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest">Latest Release</a> (* recommended)
 
-### Arc Loader Custom:      <a href="https://auxxxilium.github.io/arc">Automated/Offline Build</a> (* reduced Features)
+### Arc Loader Beta:        <a href="https://github.com/AuxXxilium/arc-beta/releases/latest">Beta Release</a>
+
+### Arc Loader Custom:      <a href="https://auxxxilium.github.io/arc">Automated/Offline Build</a>
 
 ---
 
