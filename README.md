@@ -47,7 +47,8 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 ## Arc Loader Github Stats
 
-![GitHub Release](https://img.shields.io/github/v/release/AuxXxilium/arc?sort=date&display_name=release&style=for-the-badge&logo=github&label=release&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) ![GitHub Repo stars](https://img.shields.io/github/stars/AuxXxilium/arc?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) ![Discord](https://img.shields.io/discord/639072565155069962?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.auxxxilium.tech) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOJJM6kvbqc5vytWR-TGu0w?style=for-the-badge&logo=youtube&label=Youtube&link=https%3A%2F%2Fyoutube.auxxxilium.tech)
+![GitHub Release](https://img.shields.io/github/v/release/AuxXxilium/arc?sort=date&display_name=release&style=for-the-badge&logo=github&label=release&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) ![GitHub Repo stars](https://img.shields.io/github/stars/AuxXxilium/arc?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc)</br>
+![Discord](https://img.shields.io/discord/639072565155069962?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.auxxxilium.tech) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOJJM6kvbqc5vytWR-TGu0w?style=for-the-badge&logo=youtube&label=Youtube&link=https%3A%2F%2Fyoutube.auxxxilium.tech)
 
 ## AuxXxilium's Github Stats
 
