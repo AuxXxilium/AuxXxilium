@@ -33,9 +33,9 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 *  <a href="https://github.com/AuxXxilium/arc-lkm">Arc LKM</a> (based on Redpill LKM)
 
-### DSM Apps
+### Arc Utils
 
-* <a href="https://github.com/AuxXxilium/synology-dsm-open-vm-tools">Open VM Tools</a> (VM Tools for VMware ESXi and Workstation)
+* <a href="https://github.com/AuxXxilium/arc-utils">Arc Utils</a> (Useful Tools to install DSM Apps on Xpenology)
 
 ## Arc Download
 
