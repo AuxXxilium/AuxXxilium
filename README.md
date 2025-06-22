@@ -35,7 +35,7 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 ### Arc Utilties
 
-* <a href="https://github.com/AuxXxilium/arc-utils">Arc Utils</a> (Useful Tools to install DSM Apps on Xpenology)
+* <a href="https://github.com/AuxXxilium/arc-utils">Arc Utilities</a> (Useful Tools to install DSM Apps on Xpenology)
 
 ## Arc Download
 
