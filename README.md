@@ -33,7 +33,7 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 *  <a href="https://github.com/AuxXxilium/arc-lkm">Arc LKM</a> (based on Redpill LKM)
 
-### Arc Utils
+### Arc Utilties
 
 * <a href="https://github.com/AuxXxilium/arc-utils">Arc Utils</a> (Useful Tools to install DSM Apps on Xpenology)
 
