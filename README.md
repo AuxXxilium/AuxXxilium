@@ -35,7 +35,7 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 ### Arc Control
 
-*  <a href="https://github.com/AuxXxilium/arc-control">Arc Control DSM App
+*  <a href="https://github.com/AuxXxilium/arc-control">Arc Control</a> (DSM App for Arc Loader)
 
 ### Arc Utilties
 
