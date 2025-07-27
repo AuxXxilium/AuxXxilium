@@ -19,7 +19,6 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 
 * <a href="https://auxxxilium.tech/wiki" target="_blank">FAQ & Wiki</a> <- Read me first!!!
 
-
 ### Arc Dependencies
 
 *  <a href="https://github.com/AuxXxilium/arc-addons">Arc Addons</a> (Addons for DSM)
@@ -33,6 +32,10 @@ Hardware has a price but data is priceless, any user-specific custom modificatio
 *  <a href="https://github.com/AuxXxilium/arc-patches">Arc Patches</a> (Patches to make DSM running)
 
 *  <a href="https://github.com/AuxXxilium/arc-lkm">Arc LKM</a> (based on Redpill LKM)
+
+### Arc Control
+
+*  <a href="https://github.com/AuxXxilium/arc-control">Arc Control DSM App
 
 ### Arc Utilties
 
