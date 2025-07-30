@@ -51,7 +51,7 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced hardwar
 
 ---
 
-## Arc Loader Github Stats
+## Arc Loader Stats
 
 #### Stable:</br>
 ![GitHub Release](https://img.shields.io/github/v/release/AuxXxilium/arc?sort=date&display_name=release&style=for-the-badge&logo=github&label=release&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc)</br>
