@@ -13,7 +13,7 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced hardwar
 
 * The Loader is free and will be free forever! If you paid for it to an suspicious person, i can't help you. Because i'm not connected to them! I don't want to make money with this Project.
 
-## Arc Loader Project
+## Arc Project
 
 * <a href="https://github.com/AuxXxilium/arc">Arc Loader</a> <- Loader with guided Installation for different Models
 
@@ -43,7 +43,7 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced hardwar
 
 * <a href="https://github.com/AuxXxilium/arc-utils">Arc Utilities</a> (Useful Tools to install DSM Apps on Xpenology)
 
-## Arc Download
+## Arc Loader Download
 
 ### Arc Loader:             <a href="https://github.com/AuxXxilium/arc/releases/latest">Stable Release</a> | <a href="https://github.com/AuxXxilium/arc-beta/releases/latest">Beta Release</a>
 
