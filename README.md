@@ -44,7 +44,7 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced hardwar
 
 ---
 
-## Arc Loader Download
+## Download
 
 <a href="https://github.com/AuxXxilium/arc/releases/latest"><img alt="Static Badge" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=stable&color=%23FF0000&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc%2Freleases%2Flatest"></a> ![GitHub Release](https://img.shields.io/github/v/release/AuxXxilium/arc?sort=date&display_name=release&style=for-the-badge&logo=github&label=release&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc)</br>
 <a href="https://github.com/AuxXxilium/arc-essential/releases/latest"><img alt="Static Badge" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=essential&color=%23FF0000&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc-essential%2Freleases%2Flatest"></a> ![GitHub Release](https://img.shields.io/github/v/release/AuxXxilium/arc-essential?sort=date&display_name=release&style=for-the-badge&logo=github&label=release&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc-essential) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AuxXxilium/arc-essential/total?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc-essential)</br>
