@@ -44,7 +44,7 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced hardwar
 
 ---
 
-## Arc Loader Stats
+## Arc Loader Download
 
 #### Stable:</br>
 <a href="https://github.com/AuxXxilium/arc/releases/latest"><img alt="Static Badge" src="https://img.shields.io/badge/stable-red?style=for-the-badge&label=Download&color=%23FF0000&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc%2Freleases%2Flatest"></a> ![GitHub Release](https://img.shields.io/github/v/release/AuxXxilium/arc?sort=date&display_name=release&style=for-the-badge&logo=github&label=release&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc)</br>
@@ -52,9 +52,9 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced hardwar
 <a href="https://github.com/AuxXxilium/arc-essential/releases/latest"><img alt="Static Badge" src="https://img.shields.io/badge/essential-red?style=for-the-badge&label=Download&color=%23FF0000&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc-essential%2Freleases%2Flatest"></a> ![GitHub Release](https://img.shields.io/github/v/release/AuxXxilium/arc-essential?sort=date&display_name=release&style=for-the-badge&logo=github&label=release&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc-essential) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AuxXxilium/arc-essential/total?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc-essential)</br>
 #### Beta:</br>
 <a href="https://github.com/AuxXxilium/arc-beta/releases/latest"><img alt="Static Badge" src="https://img.shields.io/badge/beta-red?style=for-the-badge&label=Download&color=%23FF0000&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc-beta%2Freleases%2Flatest"></a> ![GitHub Release](https://img.shields.io/github/v/release/AuxXxilium/arc-beta?sort=date&display_name=release&style=for-the-badge&logo=github&label=release&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc-beta) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AuxXxilium/arc-beta/total?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc-beta)</br>
-#### Social:</br>
-![GitHub Repo stars](https://img.shields.io/github/stars/AuxXxilium/arc?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) ![Discord](https://img.shields.io/discord/639072565155069962?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.auxxxilium.tech) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOJJM6kvbqc5vytWR-TGu0w?style=for-the-badge&logo=youtube&label=Youtube&link=https%3A%2F%2Fyoutube.auxxxilium.tech)
 
-## AuxXxilium's Github Stats
+## Social & Github
+
+![GitHub Repo stars](https://img.shields.io/github/stars/AuxXxilium/arc?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAuxXxilium%2Farc) ![Discord](https://img.shields.io/discord/639072565155069962?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.auxxxilium.tech) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOJJM6kvbqc5vytWR-TGu0w?style=for-the-badge&logo=youtube&label=Youtube&link=https%3A%2F%2Fyoutube.auxxxilium.tech)
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AuxXxilium&show_icons=true&theme=react&hide_title=true&include_all_commits=true)
