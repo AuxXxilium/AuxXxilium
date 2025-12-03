@@ -26,13 +26,13 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced hardwar
 
 *  <a href="https://github.com/AuxXxilium/arc-configs">Arc Configs</a> (Model Configs for DSM)
 
-*  <a href="https://github.com/AuxXxilium/arc-dsm">Arc DSM</a> (extracted DSM Data)
+*  <a href="https://github.com/AuxXxilium/arc-dsm">Arc DSM</a> (Extracted DSM Data)
 
 *  <a href="https://github.com/AuxXxilium/arc-modules">Arc Modules</a> (Modules/Driver for DSM)
 
 *  <a href="https://github.com/AuxXxilium/arc-patches">Arc Patches</a> (Patches to make DSM running)
 
-*  <a href="https://github.com/AuxXxilium/arc-lkm">Arc LKM</a> (based on Redpill LKM)
+*  <a href="https://github.com/AuxXxilium/arc-lkm">Arc LKM</a> (Based on Redpill LKM)
 
 ### Arc Control
 
