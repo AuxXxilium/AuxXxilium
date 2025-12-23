@@ -16,23 +16,7 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced hardwar
 
 * <a href="https://github.com/AuxXxilium/arc-beta">Arc Loader Beta</a> <- Beta Release of Arc Loader
 
-* <a href="https://auxxxilium.github.io/arc">Arc Loader Custom</a> <- For headless installation / reduced features
-
 * <a href="https://xpenology.tech/wiki" target="_blank">FAQ & Wiki</a> <- Read me first!!!
-
-### Arc Dependencies
-
-*  <a href="https://github.com/AuxXxilium/arc-addons">Arc Addons</a> (Addons for DSM)
-
-*  <a href="https://github.com/AuxXxilium/arc-configs">Arc Configs</a> (Model Configs for DSM)
-
-*  <a href="https://github.com/AuxXxilium/arc-dsm">Arc DSM</a> (Extracted DSM Data)
-
-*  <a href="https://github.com/AuxXxilium/arc-modules">Arc Modules</a> (Modules/Driver for DSM)
-
-*  <a href="https://github.com/AuxXxilium/arc-patches">Arc Patches</a> (Patches to make DSM running)
-
-*  <a href="https://github.com/AuxXxilium/arc-lkm">Arc LKM</a> (Based on Redpill LKM)
 
 ### Arc Control
 
@@ -40,7 +24,7 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced hardwar
 
 ### Arc Utilties
 
-* <a href="https://github.com/AuxXxilium/arc-utils">Arc Utilities</a> (Useful Tools to install DSM Apps on Xpenology)
+* <a href="https://github.com/AuxXxilium/arc-utils">Arc Utilities</a> (Useful Tools to install, patch and activate DSM Apps on Xpenology)
 
 ---
 
