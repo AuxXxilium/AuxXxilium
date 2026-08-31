@@ -20,7 +20,7 @@ Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced hardwar
 
 ### Arc Custom Kernel
 
-*  <a href="https://github.com/AuxXxilium/arc-custom">Arc Custom</a> <- Linux 5.x Based Custom Kernel for Arc Loader
+*  <a href="https://github.com/AuxXxilium/arc-custom">Arc Custom</a> <- Linux 5.x based customized Kernel for Arc Loader
 
 ### Arc Control
 
