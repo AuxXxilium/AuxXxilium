@@ -162,8 +162,8 @@ Run a real NVIDIA GPU on your NAS — install the driver from DSM and pass it in
 
 * **Installs as a normal DSM package** — a small `.spk` that fetches the driver on demand instead of bundling it
 * **Pick and switch versions from a UI** — its own web UI plus a tab in Arc Control; install, start, stop, switch or remove without SSH
-* **Driver branches** — 580.173.02 (default, Maxwell → Blackwell/RTX 50), 550.163.01 and 535.247.01 LTSB, with a recommendation per GPU from a built-in compatibility table
-* **Platform support** — DSM 7.2 on kernel 5.10.55 platforms (epyc7002, v1000nk, r1000nk, geminilakenk); modules are compiled per platform
+* **Driver branches** — 595.x, 580.x, 550.x, 535.x LTSB and 470.x with a recommendation per GPU from a built-in compatibility table
+* **Platform support** — DSM 7.2+ on kernel 5.10.55 platforms (epyc7002, v1000nk, r1000nk, geminilakenk); modules are compiled per platform
 * **Full CUDA / NVENC / NVDEC userspace** — including `nvidia-smi`, persistence mode and automatic device node creation
 * **Docker & Container Manager GPU support** — optional NVIDIA Container Toolkit layer that registers the `nvidia` runtime and re-asserts it after updates
 * **Optional NVENC ffmpeg layer** — a jellyfin-ffmpeg build pinned to the driver's NVENC API
