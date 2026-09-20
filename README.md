@@ -43,8 +43,8 @@ The loader itself — guided setup that turns almost any x64 PC, mini-PC or VM i
 * **Built-in updater** — update the loader, add-ons, modules, patches, configs and kernels from the menu, each from its own release channel
 * **Rescue toolbox** — reset DSM passwords, add an admin, force-enable SSH, clear blocked IPs, restore config or `machine.key`, clone the loader, edit cmdline/synoinfo and much more
 
-<a href="https://github.com/AuxXxilium/arc">Repository</a> ·
-<a href="https://github.com/AuxXxilium/arc/releases/latest">Releases</a>
+<sub><a href="https://github.com/AuxXxilium/arc">Repository</a> ·
+<a href="https://github.com/AuxXxilium/arc/releases/latest">Releases</a></sub>
 
 ---
 
