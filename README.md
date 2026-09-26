@@ -52,7 +52,7 @@ The loader itself — guided setup that turns almost any x64 PC, mini-PC or VM i
 
 ### <img src="https://img.shields.io/badge/-arx-B91C1C?style=flat-square" height="20"> arx &nbsp;<img src="https://img.shields.io/badge/beta-B91C1C?style=flat-square" height="18">
 
-The future of arc — Arc's logic on a small modern system, set up entirely from your browser.
+The evolution of arc — Arc's logic on a small modern system, set up entirely from your browser.
 
 * **Setup in the browser** — Welcome → Model → Extras → Network → Build, in plain words; the console only shows where to point your browser
 * **Arc's logic, ported** — the kernel command line from arc's `boot.sh`, the ramdisk patched in `ramdisk-patch.sh` order, arc's add-on order and defaults
