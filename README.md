@@ -180,6 +180,28 @@ A standalone QEMU/KVM hypervisor packaged for DSM — virtual machines with real
 
 <br>
 
+### <img src="https://img.shields.io/badge/-Container-2496ED?style=flat-square" height="20"> Arc Container &nbsp;<img src="https://img.shields.io/badge/beta-2496ED?style=flat-square" height="18">
+
+A container manager for DSM with its own, current Docker engine — independent of Synology's Container Manager and the Docker version it is stuck on.
+
+* **Current Docker engine** — Docker's own static builds, updated with the package, so compose v2, the newer mount syntax and buildx just work
+* **Containers** — create with a guided editor (ports, mounts, environment, devices, limits), start, stop, restart, pause, inspect and remove; change restart policy and limits without recreating
+* **Compose projects** — edit, bring up, take down, update and read the logs of a whole stack
+* **Images, volumes & networks** — pull with Docker Hub search and tag browser, bridge and macvlan networks, registry sign-in and mirrors
+* **Logs & live stats** — filter, follow and download logs; live CPU, memory, network and disk use per container
+* **Updates on a schedule** — one-step update for a project or container, plus timed update, start and stop tasks
+* **Housekeeping** — disk usage per type with cleanup, and a choice of volume for the image store
+* **Coexists with Container Manager** — its own daemon, socket and image store; never touches Synology's
+
+> [!NOTE]
+> Arc Container is still in beta and not yet proven on real hardware. Requires DSM 7.x on x86-64 and the Arc Loader. Images and containers are not shared with Container Manager, and both cannot publish the same host port.
+
+<sub>📦 Package Center → Community → **Arc Container**</sub>
+
+---
+
+<br>
+
 ### <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square" height="20"> Syno NVIDIA Driver
 
 Run a real NVIDIA GPU on your NAS — install the driver from DSM and pass it into Docker.
