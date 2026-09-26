@@ -50,6 +50,29 @@ The loader itself — guided setup that turns almost any x64 PC, mini-PC or VM i
 
 <br>
 
+### <img src="https://img.shields.io/badge/-arx-B91C1C?style=flat-square" height="20"> arx &nbsp;<img src="https://img.shields.io/badge/beta-B91C1C?style=flat-square" height="18">
+
+The future of arc — Arc's logic on a small modern system, set up entirely from your browser.
+
+* **Setup in the browser** — Welcome → Model → Extras → Network → Build, in plain words; the console only shows where to point your browser
+* **Arc's logic, ported** — the kernel command line from arc's `boot.sh`, the ramdisk patched in `ramdisk-patch.sh` order, arc's add-on order and defaults
+* **Hardware-aware defaults** — detects VMs with `virt-what` and counts disks per controller, so vmtools, sensors, power, NVMe and SMART add-ons are picked for you
+* **Model picker with features** — iGPU, hybrid CPU, HBA and M.2 support per model, marked where this computer has the hardware
+* **Tweaks as switches** — arc's CPU, RAM, PCI/IRQ and C-State fixes, NVMe and performance options, Netfix, MSI board fix, GPU passthrough and module options
+* **Starts DSM by itself** — once built, a normal boot goes straight into DSM via kexec
+* **Built-in updater & disk tools** — update from GitHub or from a file without internet, and format disks before installing DSM
+* **Focused scope** — epyc7002, geminilakenk, r1000nk and v1000nk with DSM 7.4 on the Arc Custom Kernel
+
+> [!NOTE]
+> arx is young and tested in VMware so far; it is not yet proven on a wide range of real hardware.
+
+<sub><a href="https://github.com/AuxXxilium/arx">Repository</a> ·
+<a href="https://github.com/AuxXxilium/arx/releases/latest">Releases</a></sub>
+
+---
+
+<br>
+
 ### <img src="https://img.shields.io/badge/-Kernel-5B21B6?style=flat-square" height="20"> Arc Custom Kernel
 
 Custom DSM kernels that add back the hardware Synology's own kernel never knew about.
@@ -215,6 +238,7 @@ A modern, fully hardware-accelerated FFmpeg for DSM — Intel Quick Sync, AMD VC
 | **Stable** | [get it](https://github.com/AuxXxilium/arc/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arc?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=flat-square&logo=github&label=) |
 | **Essential** | [get it](https://github.com/AuxXxilium/arc-essential/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arc-essential?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arc-essential/total?style=flat-square&logo=github&label=) |
 | **Beta** | [get it](https://github.com/AuxXxilium/arc-beta/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arc-beta?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arc-beta/total?style=flat-square&logo=github&label=) |
+| **arx** | [get it](https://github.com/AuxXxilium/arx/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arx?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arx/total?style=flat-square&logo=github&label=) |
 
 ---
 
