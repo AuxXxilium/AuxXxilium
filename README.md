@@ -52,16 +52,17 @@ The loader itself — guided setup that turns almost any x64 PC, mini-PC or VM i
 
 ### <img src="https://img.shields.io/badge/-arx-B91C1C?style=flat-square" height="20"> arx &nbsp;<img src="https://img.shields.io/badge/beta-B91C1C?style=flat-square" height="18">
 
-The evolution of arc — Arc's logic on a small modern system, set up entirely from your browser.
+The evolution of arc — the Arc Loader, set up entirely from your browser.
 
-* **Setup in the browser** — Welcome → Model → Extras → Network → Build, in plain words; the console only shows where to point your browser
-* **Arc's logic, ported** — the kernel command line from arc's `boot.sh`, the ramdisk patched in `ramdisk-patch.sh` order, arc's add-on order and defaults
-* **Hardware-aware defaults** — detects VMs with `virt-what` and counts disks per controller, so vmtools, sensors, power, NVMe and SMART add-ons are picked for you
-* **Model picker with features** — iGPU, hybrid CPU, HBA and M.2 support per model, marked where this computer has the hardware
-* **Tweaks as switches** — arc's CPU, RAM, PCI/IRQ and C-State fixes, NVMe and performance options, Netfix, MSI board fix, GPU passthrough and module options
-* **Starts DSM by itself** — once built, a normal boot goes straight into DSM via kexec
-* **Built-in updater & disk tools** — update from GitHub or from a file without internet, and format disks before installing DSM
-* **Focused scope** — epyc7002, geminilakenk, r1000nk and v1000nk with DSM 7.4 on the Arc Custom Kernel
+* **Setup in the browser** — a few simple steps with Back and Next, in plain words; the screen on the machine tells you which address to open
+* **Arc at its core** — the same proven setup and build logic as the Arc Loader
+* **Picks the right add-ons for you** — recognises whether it runs in a virtual machine or on real hardware, and what disks it has, and chooses to match
+* **Model picker that knows your hardware** — shows what each model supports, like integrated graphics or M.2 drives, and highlights what your computer has
+* **Tweaks** — optional fixes for CPU, memory, power saving, network and graphics, each a simple on/off switch
+* **Starts DSM by itself** — once set up, switching the computer on goes straight into DSM
+* **Updates itself** — with one click, or from a downloaded file when there is no internet
+* **Format Disks** — wipe disks that held another system before installing DSM
+* **Works offline** — everything it needs is on the loader disk
 
 > [!NOTE]
 > arx is young and tested in VMware so far; it is not yet proven on a wide range of real hardware.
