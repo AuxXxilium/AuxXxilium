@@ -30,7 +30,7 @@ Modified to run on a wide range of hardware — bare metal, mini-PC or VM.
 
 <br>
 
-### <img src="https://img.shields.io/badge/-Arc-FF0000?style=flat-square" height="20"> Arc Loader
+### <img src="https://img.shields.io/badge/-Arc-FF0000?style=flat-square" height="20"> Arc
 
 The loader itself — guided setup that turns almost any x64 PC, mini-PC or VM into a DSM 7.x box.
 
