@@ -50,7 +50,7 @@ The loader itself — guided setup that turns almost any x64 PC, mini-PC or VM i
 
 <br>
 
-### <img src="https://img.shields.io/badge/-arx-B91C1C?style=flat-square" height="20"> Arx &nbsp;<img src="https://img.shields.io/badge/beta-B91C1C?style=flat-square" height="18">
+### <img src="https://img.shields.io/badge/-Arx-B91C1C?style=flat-square" height="20"> Arx &nbsp;<img src="https://img.shields.io/badge/beta-B91C1C?style=flat-square" height="18">
 
 The evolution of arc — the Arc Loader, set up entirely from your browser.
 
