@@ -64,9 +64,6 @@ The evolution of arc — the Arc Loader, set up entirely from your browser.
 * **Format Disks** — wipe disks that held another system before installing DSM
 * **Works offline** — everything it needs is on the loader disk
 
-> [!NOTE]
-> arx is young and tested in VMware so far; it is not yet proven on a wide range of real hardware.
-
 <sub><a href="https://github.com/AuxXxilium/arx">Repository</a> ·
 <a href="https://github.com/AuxXxilium/arx/releases/latest">Releases</a></sub>
 
