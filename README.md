@@ -282,7 +282,6 @@ A modern, fully hardware-accelerated FFmpeg for DSM — Intel Quick Sync, AMD VC
 | :-- | :-- |
 | [Arc Loader Essential](https://github.com/AuxXxilium/arc-essential) | Reduced-size loader, Linux 5.x models only |
 | [Arc Loader Beta](https://github.com/AuxXxilium/arc-beta) | Beta releases of the Arc Loader |
-| [Arc/Arx Flash](https://github.com/AuxXxilium/arc-flash) | Write Arc or Arx to a USB stick, and update a loader stick without losing its settings — Windows, Linux and macOS |
 | [Arc Utilities](https://github.com/AuxXxilium/arc-utils) | Tools to install, patch and activate DSM apps on Xpenology |
 | [FAQ & Wiki](https://xpenology.tech/wiki) | **Read this first** |
 
