@@ -2,14 +2,16 @@
 
 <img width="845" alt="Arc Loader" src="https://github.com/AuxXxilium/arc/raw/page/docs/arc_loader.png?raw=true">
 
-### Arc — a customized Redpill Loader for DSM 7.x
+### Arc & Arx — customized Redpill Loaders for DSM 7.x
 
-Enhanced hardware support, add-ons, guided (semi-automated) installation and a lot of built-in customization.<br>
-Modified to run on a wide range of hardware — bare metal, mini-PC or VM.
+**Arc:** enhanced hardware support, add-ons, guided (semi-automated) installation and a lot of built-in customization.<br>
+**Arx:** the evolution of Arc — the same core, set up entirely from your browser.<br>
+Both run on a wide range of hardware — bare metal, mini-PC or VM.
 
 <a href="https://github.com/AuxXxilium/arc/releases/latest"><img alt="Stable" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=stable&color=%23FF0000"></a>
 <a href="https://github.com/AuxXxilium/arc-essential/releases/latest"><img alt="Essential" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=essential&color=%23FF0000"></a>
 <a href="https://github.com/AuxXxilium/arc-beta/releases/latest"><img alt="Beta" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=beta&color=%23FF0000"></a>
+<a href="https://github.com/AuxXxilium/arx/releases/latest"><img alt="Arx" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=arx&color=%23B91C1C"></a>
 <a href="https://xpenology.tech/wiki"><img alt="Wiki" src="https://img.shields.io/badge/read_first-blue?style=for-the-badge&label=wiki&color=%230066CC"></a>
 
 </div>
@@ -17,10 +19,10 @@ Modified to run on a wide range of hardware — bare metal, mini-PC or VM.
 ---
 
 > [!IMPORTANT]
-> * Arc and DSM are **independent** from each other — Arc is a boot helper for DSM.
+> * Arc, Arx and DSM are **independent** from each other — Arc and Arx are boot helpers for DSM.
 > * **Commercial use is not permitted and strictly forbidden.**
 > * DSM and all parts of it are under copyright / ownership by Synology Inc.
-> * The Loader is free and will stay free forever. If you paid a suspicious person for it, I can't help you — I'm not connected to them.
+> * The loaders are free and will stay free forever. If you paid a suspicious person for it, I can't help you — I'm not connected to them.
 
 ---
 
@@ -66,6 +68,24 @@ The evolution of arc — the Arc Loader, set up entirely from your browser.
 
 <sub><a href="https://github.com/AuxXxilium/arx">Repository</a> ·
 <a href="https://github.com/AuxXxilium/arx/releases/latest">Releases</a></sub>
+
+---
+
+<br>
+
+### <img src="https://img.shields.io/badge/-Flash-F97316?style=flat-square" height="20"> Arc/Arx Flash
+
+The USB writer for Arc and Arx — put a loader on a stick, and update it later without losing its settings.
+
+* **Flash** — writes an Arc or Arx release to a USB stick, downloaded from GitHub or from a local `.img` / `.img.zip`
+* **Update** — puts a newer release on a loader stick and keeps its settings, the DSM partition, the password and the downloaded DSM files
+* **Knows your sticks** — shows which loader and version each stick holds, and only offers removable disks, never the system disk
+* **Checked downloads** — images are verified against GitHub's sha256 digest, with an optional read-back check after writing
+* **Backups** — the files Update saves stay on your computer, the last 3 per loader
+* **One file, nothing to install** — a native app for Windows, Linux and macOS, styled like Arc Control, with a command line as well
+
+<sub><a href="https://github.com/AuxXxilium/arc-flash">Repository</a> ·
+<a href="https://github.com/AuxXxilium/arc-flash/releases/latest">Releases</a></sub>
 
 ---
 
