@@ -200,6 +200,7 @@ A standalone QEMU/KVM hypervisor packaged for DSM — virtual machines with real
 
 > [!NOTE]
 > Arc VMM is in beta. Requires DSM 7.x on x86-64 with hardware virtualization; IOMMU for passthrough.
+> Designed to work flawlessly with the [Arc Custom Kernel](https://github.com/AuxXxilium/arc-custom) (`legacy`).
 
 <sub>📦 Package Center → Community → **Arc VMM**</sub>
 
@@ -223,7 +224,8 @@ A container manager for DSM with its own, current Docker engine — independent 
 * **Coexists with Container Manager** — its own daemon, socket and image store; never touches Synology's
 
 > [!NOTE]
-> Arc Container is in beta. Requires DSM 7.x on x86-64 and the Arc Loader. Images and containers are not shared with Container Manager, and both cannot publish the same host port.
+> Arc Container is in beta. Requires DSM 7.x on x86-64 and the Arc or Arx Loader. Images and containers are not shared with Container Manager, and both cannot publish the same host port.
+> Designed to work flawlessly with the [Arc Custom Kernel](https://github.com/AuxXxilium/arc-custom) (`legacy`).
 
 <sub>📦 Package Center → Community → **Arc Container**</sub>
 
