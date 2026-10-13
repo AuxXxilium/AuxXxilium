@@ -246,6 +246,7 @@ A modern, fully hardware-accelerated FFmpeg for DSM — Intel Quick Sync, AMD VC
 | :-- | :-- |
 | [Arc Loader Essential](https://github.com/AuxXxilium/arc-essential) | Reduced-size loader, Linux 5.x models only |
 | [Arc Loader Beta](https://github.com/AuxXxilium/arc-beta) | Beta releases of the Arc Loader |
+| [Arc/Arx Flash](https://github.com/AuxXxilium/arc-flash) | Write Arc or Arx to a USB stick, and update a loader stick without losing its settings — Windows, Linux and macOS |
 | [Arc Utilities](https://github.com/AuxXxilium/arc-utils) | Tools to install, patch and activate DSM apps on Xpenology |
 | [FAQ & Wiki](https://xpenology.tech/wiki) | **Read this first** |
 
@@ -259,6 +260,9 @@ A modern, fully hardware-accelerated FFmpeg for DSM — Intel Quick Sync, AMD VC
 | **Essential** | [get it](https://github.com/AuxXxilium/arc-essential/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arc-essential?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arc-essential/total?style=flat-square&logo=github&label=) |
 | **Beta** | [get it](https://github.com/AuxXxilium/arc-beta/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arc-beta?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arc-beta/total?style=flat-square&logo=github&label=) |
 | **arx** | [get it](https://github.com/AuxXxilium/arx/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arx?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arx/total?style=flat-square&logo=github&label=) |
+| **Arc/Arx Flash** | [get it](https://github.com/AuxXxilium/arc-flash/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arc-flash?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arc-flash/total?style=flat-square&logo=github&label=) |
+
+Write the loader image to a USB stick with **[Arc/Arx Flash](https://github.com/AuxXxilium/arc-flash/releases/latest)** *(recommended)*, [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io). Only Arc/Arx Flash can also update a loader stick and keep its settings.
 
 ---
 
