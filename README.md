@@ -54,7 +54,7 @@ The loader itself — guided setup that turns almost any x64 PC, mini-PC or VM i
 
 ### <img src="https://img.shields.io/badge/-Arx-B91C1C?style=flat-square" height="20"> Arx
 
-The evolution of arc — the Arc Loader, set up entirely from your browser.
+The evolution of Arc — the Arc Loader, set up entirely from your browser.
 
 * **Setup in the browser** — a few simple steps with Back and Next, in plain words; the screen on the machine tells you which address to open
 * **Arc at its core** — the same proven setup and build logic as the Arc Loader
