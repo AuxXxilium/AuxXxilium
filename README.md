@@ -189,7 +189,7 @@ A standalone QEMU/KVM hypervisor packaged for DSM — virtual machines with real
 * **Coexists with Synology VMM** — never touches its libvirtd or API
 
 > [!NOTE]
-> Arc VMM is still in beta and not yet proven on a wide range of real hardware. Requires DSM 7.x on x86-64 with hardware virtualization; IOMMU for passthrough.
+> Arc VMM is in beta. Requires DSM 7.x on x86-64 with hardware virtualization; IOMMU for passthrough.
 
 <sub>📦 Package Center → Community → **Arc VMM**</sub>
 
@@ -211,7 +211,7 @@ A container manager for DSM with its own, current Docker engine — independent 
 * **Coexists with Container Manager** — its own daemon, socket and image store; never touches Synology's
 
 > [!NOTE]
-> Arc Container is still in beta and not yet proven on real hardware. Requires DSM 7.x on x86-64 and the Arc Loader. Images and containers are not shared with Container Manager, and both cannot publish the same host port.
+> Arc Container is in beta. Requires DSM 7.x on x86-64 and the Arc Loader. Images and containers are not shared with Container Manager, and both cannot publish the same host port.
 
 <sub>📦 Package Center → Community → **Arc Container**</sub>
 
