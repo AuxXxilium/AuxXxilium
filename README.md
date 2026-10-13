@@ -223,6 +223,8 @@ A container manager for DSM with its own, current Docker engine — independent 
 
 Run a real NVIDIA GPU on your NAS — install the driver from DSM and pass it into Docker.
 
+**Linux 5.x only** — needs a DSM kernel 5.10.55 platform: `epyc7002`, `geminilakenk`, `r1000nk` or `v1000nk`. It does not install on 4.4 platforms.
+
 * **Installs as a normal DSM package** — a small `.spk` that fetches the driver on demand instead of bundling it
 * **Pick and switch versions from a UI** — its own web UI plus a tab in Arc Control; install, start, stop, switch or remove without SSH
 * **Driver branches** — 595.x, 580.x, 550.x, 535.x LTSB and 470.x with a recommendation per GPU from a built-in compatibility table
