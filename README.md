@@ -36,6 +36,8 @@ Both run on a wide range of hardware — bare metal, mini-PC or VM.
 
 The loader itself — guided setup that turns almost any x64 PC, mini-PC or VM into a DSM 7.x box.
 
+<p align="center"><img src="screenshots/arc.png" width="720" alt="Arc web config with the terminal open"></p>
+
 * **Guided or fully automated install** — a dialog-driven walkthrough (Model → DSM version → Add-ons → Build → Boot) or a hands-off automated mode
 * **Hardware-aware model picker** — probes CPU flags, SATA/SAS/NVMe/RAID controllers, iGPU and thread count, then shows only models your hardware can actually run
 * **Broad platform support** — apollolake, geminilake(nk), broadwell(nk/v2), purley, icelaked, epyc7002, epyc7003(ntb), r1000nk, v1000nk
@@ -55,6 +57,8 @@ The loader itself — guided setup that turns almost any x64 PC, mini-PC or VM i
 ### <img src="https://img.shields.io/badge/-Arx-B91C1C?style=flat-square" height="20"> Arx
 
 The evolution of Arc — the Arc Loader, set up entirely from your browser.
+
+<p align="center"><img src="screenshots/arx.png" width="600" alt="Arx web UI in advanced mode"></p>
 
 * **Setup in the browser** — a few simple steps with Back and Next, in plain words; the screen on the machine tells you which address to open
 * **Arc at its core** — the same proven setup and build logic as the Arc Loader
@@ -76,6 +80,8 @@ The evolution of Arc — the Arc Loader, set up entirely from your browser.
 ### <img src="https://img.shields.io/badge/-Flash-F97316?style=flat-square" height="20"> Arc/Arx Flash
 
 The USB writer for Arc and Arx — put a loader on a stick, and update it later without losing its settings.
+
+<p align="center"><img src="screenshots/arc-flash.png" width="300" alt="Arc/Arx Flash"></p>
 
 * **Flash** — writes an Arc or Arx release to a USB stick, downloaded from GitHub or from a local `.img` / `.img.zip`
 * **Update** — puts a newer release on a loader stick and keeps its settings, the DSM partition, the password and the downloaded DSM files
@@ -159,6 +165,8 @@ Updates then arrive through Package Center like any other app — no manual `.sp
 
 A DSM app that brings loader configuration, monitoring and hardware tuning to your Synology desktop — no reboot into config mode needed.
 
+<p align="center"><img src="screenshots/arc-control.png" width="600" alt="Arc Control overview"></p>
+
 * **Edit the loader config from DSM** — model, DSM version, serial, MACs, USB VID/PID, SataDOM, cmdline and more, with config backup
 * **Add-on management** — browse, search and toggle add-ons; get notified when a loader update is available
 * **One-click reboot into any mode** — rebuild, update, config, recovery, automated, junior or UEFI
@@ -178,6 +186,8 @@ A DSM app that brings loader configuration, monitoring and hardware tuning to yo
 ### <img src="https://img.shields.io/badge/-VMM-F59E0B?style=flat-square" height="20"> Arc VMM &nbsp;<img src="https://img.shields.io/badge/beta-F59E0B?style=flat-square" height="18">
 
 A standalone QEMU/KVM hypervisor packaged for DSM — virtual machines with real PCI passthrough, without Synology's Virtual Machine Manager.
+
+<p align="center"><img src="screenshots/arc-vmm.png" width="600" alt="Arc VMM virtual machines"></p>
 
 * **Full VM lifecycle** — create, edit, delete, start, shut down and force off; BIOS or UEFI, NUMA split, autostart
 * **Flexible disks** — create qcow2/raw images, reuse existing ones, or hand a whole physical disk to a guest
@@ -200,6 +210,8 @@ A standalone QEMU/KVM hypervisor packaged for DSM — virtual machines with real
 ### <img src="https://img.shields.io/badge/-Container-2496ED?style=flat-square" height="20"> Arc Container &nbsp;<img src="https://img.shields.io/badge/beta-2496ED?style=flat-square" height="18">
 
 A container manager for DSM with its own, current Docker engine — independent of Synology's Container Manager and the Docker version it is stuck on.
+
+<p align="center"><img src="screenshots/arc-container.png" width="600" alt="Arc Container containers"></p>
 
 * **Current Docker engine** — Docker's own static builds, updated with the package, so compose v2, the newer mount syntax and buildx just work
 * **Containers** — create with a guided editor (ports, mounts, environment, devices, limits), start, stop, restart, pause, inspect and remove; change restart policy and limits without recreating
