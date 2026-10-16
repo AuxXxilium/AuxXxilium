@@ -66,6 +66,7 @@ The evolution of Arc — the Arc Loader, set up entirely from your browser.
 * **Model picker that knows your hardware** — shows what each model supports, like integrated graphics or M.2 drives, and highlights what your computer has
 * **Tweaks** — optional fixes for CPU, memory, power saving, network and graphics, each a simple on/off switch
 * **Starts DSM by itself** — once set up, switching the computer on goes straight into DSM
+* **Follows DSM updates** — if DSM updates itself, Arx patches the update's own boot files on the next start and starts DSM, with no rebuild and no network needed
 * **Updates itself** — with one click, or from a downloaded file when there is no internet
 * **Format Disks** — wipe disks that held another system before installing DSM
 * **Works offline** — everything it needs is on the loader disk
