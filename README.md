@@ -103,7 +103,7 @@ The USB writer for Arc and Arx — put a loader on a stick, and update it later 
 Custom DSM kernels that add back the hardware Synology's own kernel never knew about.
 
 * **Kernel 5.10.55 ABI** — stays compatible with DSM's prebuilt modules (parts backported from Linux 6.18)
-* **Targets** — epyc7002, geminilakenk, r1000nk and v1000nk for DSM 7.2, 7.3 and 7.4
+* **Targets** — epyc7002, geminilakenk, r1000nk and v1000nk for DSM 7.2, 7.3 and 7.4; epyc7003 and icelaked for DSM 7.4
 * **Three flavours** — `legacy` (stock ABI), `full` (up to 64 threads - not released yet)
 * **Modern GPU support** — backported i915 and amdgpu for hardware transcoding: Intel up to Meteor Lake incl. Arc A-series, AMD through RDNA 3.5 and Ryzen APUs *(headless — transcoding only, no display output)*
 * **Huge network driver set** — Realtek 2.5G/5G, Intel, Aquantia, Mellanox, Broadcom, Solarflare, QLogic, Marvell and many USB adapters, plus WireGuard and modern TCP congestion algorithms
@@ -238,12 +238,13 @@ A container manager for DSM with its own, current Docker engine — independent 
 
 Run a real NVIDIA GPU on your NAS — install the driver from DSM and pass it into Docker.
 
-**Linux 5.x only** — needs a DSM kernel 5.10.55 platform: `epyc7002`, `geminilakenk`, `r1000nk` or `v1000nk`. It does not install on 4.4 platforms.
+**Linux 5.x only** — needs a DSM kernel 5.10.55 platform: `epyc7002`, `epyc7003`, `geminilakenk`, `icelaked`, `r1000nk` or `v1000nk`. It does not install on 4.4 platforms.
 
 * **Installs as a normal DSM package** — a small `.spk` that fetches the driver on demand instead of bundling it
 * **Pick and switch versions from a UI** — its own web UI plus a tab in Arc Control; install, start, stop, switch or remove without SSH
 * **Driver branches** — 595.x, 580.x, 550.x, 535.x LTSB and 470.x with a recommendation per GPU from a built-in compatibility table
-* **Platform support** — DSM 7.2+ on kernel 5.10.55 platforms (epyc7002, v1000nk, r1000nk, geminilakenk); modules are compiled per platform
+* **Platform support** — DSM 7.2+ on kernel 5.10.55 platforms (epyc7002, v1000nk, r1000nk, geminilakenk), DSM 7.4 on epyc7003 and icelaked; modules are compiled per platform
+* **Stock or Arc kernel** — every driver is built for Synology's stock kernel and for the Arc Custom Kernel, and the package installs the one matching the kernel you boot
 * **Full CUDA / NVENC / NVDEC userspace** — including `nvidia-smi`, persistence mode and automatic device node creation
 * **Docker & Container Manager GPU support** — optional NVIDIA Container Toolkit layer that registers the `nvidia` runtime and re-asserts it after updates
 * **Optional NVENC ffmpeg layer** — a jellyfin-ffmpeg build pinned to the driver's NVENC API
