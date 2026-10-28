@@ -9,7 +9,6 @@
 Both run on a wide range of hardware — bare metal, mini-PC or VM.
 
 <a href="https://github.com/AuxXxilium/arc/releases/latest"><img alt="Stable" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=stable&color=%23FF0000"></a>
-<a href="https://github.com/AuxXxilium/arc-essential/releases/latest"><img alt="Essential" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=essential&color=%23FF0000"></a>
 <a href="https://github.com/AuxXxilium/arc-beta/releases/latest"><img alt="Beta" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=beta&color=%23FF0000"></a>
 <a href="https://github.com/AuxXxilium/arx/releases/latest"><img alt="Arx" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=arx&color=%23B91C1C"></a>
 <a href="https://xpenology.tech/wiki"><img alt="Wiki" src="https://img.shields.io/badge/read_first-blue?style=for-the-badge&label=wiki&color=%230066CC"></a>
@@ -282,7 +281,6 @@ A modern, fully hardware-accelerated FFmpeg for DSM — Intel Quick Sync, AMD VC
 
 | Project | Description |
 | :-- | :-- |
-| [Arc Loader Essential](https://github.com/AuxXxilium/arc-essential) | Reduced-size loader, Linux 5.x models only |
 | [Arc Loader Beta](https://github.com/AuxXxilium/arc-beta) | Beta releases of the Arc Loader |
 | [Arc Utilities](https://github.com/AuxXxilium/arc-utils) | Tools to install, patch and activate DSM apps on Xpenology |
 | [FAQ & Wiki](https://xpenology.tech/wiki) | **Read this first** |
@@ -294,7 +292,6 @@ A modern, fully hardware-accelerated FFmpeg for DSM — Intel Quick Sync, AMD VC
 | Release | Download | Version | Downloads |
 | :-- | :-- | :-- | :-- |
 | **Stable** | [get it](https://github.com/AuxXxilium/arc/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arc?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arc/total?style=flat-square&logo=github&label=) |
-| **Essential** | [get it](https://github.com/AuxXxilium/arc-essential/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arc-essential?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arc-essential/total?style=flat-square&logo=github&label=) |
 | **Beta** | [get it](https://github.com/AuxXxilium/arc-beta/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arc-beta?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arc-beta/total?style=flat-square&logo=github&label=) |
 | **Arx** | [get it](https://github.com/AuxXxilium/arx/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arx?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arx/total?style=flat-square&logo=github&label=) |
 | **Arc/Arx Flash** | [get it](https://github.com/AuxXxilium/arc-flash/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arc-flash?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arc-flash/total?style=flat-square&logo=github&label=) |
