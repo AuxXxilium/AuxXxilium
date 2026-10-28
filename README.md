@@ -153,6 +153,29 @@ A hosted portal for your Arc systems — config backup, free DDNS, live monitori
 
 <br>
 
+### <img src="https://img.shields.io/badge/-One_UI-DB2777?style=flat-square" height="20"> One UI
+
+A UI to rule them all — the same cards, buttons, colours and dark mode for every Arc app, so moving between them feels like using one product.
+
+<p align="center"><img src="screenshots/one-ui.png" width="720" alt="One UI overview in dark mode"></p>
+
+* **Two ways to use it** — a Tailwind preset with ready-made Preact components, or one CSS file and a small script for plain HTML with no build step; both look the same and share their settings
+* **Light, dark, colour and glass** — one appearance menu for light or dark, solid or glass surfaces, and five highlight colours (Red, Blue, Amber, Graphite, Pastel Green), remembered in the browser
+* **Ready-made layout** — `AppShell` with a sidebar that folds away on a phone, page headers, cards, tabs, tiles, buttons, status badges, form fields, modals, notices, progress bars and tables
+* **Status colours that stay put** — green always means good and red always means a problem, whatever the highlight colour
+* **App icons** — one script turns a flat icon into the frosted, frosted 3D or glyph 3D style the Arc apps use, keeping the symbol pixel for pixel
+* **Live demo** — every element with sample content, in light, dark and glass
+
+> [!NOTE]
+> GPL-3.0. Every use, in full or in part, must credit AuxXxilium (development) and [Fulcrum](https://github.com/FulcrumCode) (theme and design) where users can see it; `AppShell` and `<Credits />` already do.
+
+<sub><a href="https://github.com/AuxXxilium/one-ui">Repository</a> ·
+<a href="https://auxxxilium.github.io/one-ui/demo/">Live demo</a></sub>
+
+---
+
+<br>
+
 ### 🖥️ DSM Apps
 
 The following install directly in DSM. Add the package source once, then find them in **Package Center → Community**:
