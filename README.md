@@ -167,7 +167,7 @@ A UI to rule them all — the same cards, buttons, colours and dark mode for eve
 * **Live demo** — every element with sample content, in light, dark and glass
 
 > [!NOTE]
-> GPL-3.0. Every use, in full or in part, must credit AuxXxilium (development) and [Fulcrum](https://github.com/FulcrumCode) (theme and design) where users can see it; `AppShell` and `<Credits />` already do.
+> GPL-3.0. Every use, in full or in part, must credit [AuxXxilium](https://auxxxilium.tech) (development) and [Fulcrum](https://github.com/FulcrumCode) (theme and design) where users can see it; `AppShell` and `<Credits />` already do.
 
 <sub><a href="https://github.com/AuxXxilium/one-ui">Repository</a> ·
 <a href="https://auxxxilium.github.io/one-ui/demo/">Live demo</a></sub>
