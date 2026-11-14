@@ -307,6 +307,25 @@ An all-in-one hypervisor for your own x86-64 PC or server — virtual machines, 
 
 <br>
 
+### <img src="https://img.shields.io/badge/-Nova-7C3AED?style=flat-square" height="20"> Space Nova
+
+A browser space strategy game — grow your planets, research technology, build fleets and explore an uncharted 3D galaxy where every world is revealed only when a fleet first reaches it.
+
+<p align="center"><img src="screenshots/nova.png" width="720" alt="Space Nova planet overview"></p>
+
+* **Build up your planets** — mines, energy, population, water and food, with production and queues at a glance
+* **Research and shipyard** — technologies that count on every planet, and warships, civil and exploration ships
+* **A 3D galaxy to chart** — every planet starts undiscovered; send probes to find free worlds, other empires, pirate havens, derelicts and anomalies
+* **Fleets and combat** — spy, transport, colonize, attack and intercept, plus expeditions into deep space
+* **Play together** — clans with shared star charts, rankings and messages between commanders
+* **Player guides** — a beginner's guide and in-depth guides for planets, buildings, research, ships, defenses, combat and exploration
+
+<sub><a href="https://github.com/AuxXxilium/nova">Repository &amp; guides</a></sub>
+
+---
+
+<br>
+
 ### <img src="https://img.shields.io/badge/-One_UI-DB2777?style=flat-square" height="20"> One UI
 
 A UI to rule them all — the same cards, buttons, colours and dark mode for every Arc app, so moving between them feels like using one product.
