@@ -103,7 +103,6 @@ Custom DSM kernels that add back the hardware Synology's own kernel never knew a
 
 * **Kernel 5.10.55 ABI** — stays compatible with DSM's prebuilt modules (parts backported from Linux 6.18)
 * **Targets** — epyc7002, geminilakenk, r1000nk and v1000nk for DSM 7.2, 7.3 and 7.4; epyc7003 and icelaked for DSM 7.4
-* **Three flavours** — `legacy` (stock ABI), `full` (up to 64 threads - not released yet)
 * **Modern GPU support** — backported i915 and amdgpu for hardware transcoding: Intel up to Meteor Lake incl. Arc A-series, AMD through RDNA 3.5 and Ryzen APUs *(headless — transcoding only, no display output)*
 * **Huge network driver set** — Realtek 2.5G/5G, Intel, Aquantia, Mellanox, Broadcom, Solarflare, QLogic, Marvell and many USB adapters, plus WireGuard and modern TCP congestion algorithms
 * **Storage & sensors** — MegaRAID, mpt3sas, smartpqi, hpsa, aacraid and more, with a broad hwmon set for temperatures and fan control
