@@ -294,7 +294,7 @@ A modern, fully hardware-accelerated FFmpeg for DSM — Intel Quick Sync, AMD VC
 * **GPU diagnostics included** — `vainfo`, `vulkaninfo`, `clinfo` and render node permission setup
 
 > [!NOTE]
-> Requires a Linux 5.x model (kernel 5.10.55: `epyc7002`, `epyc7003`, `geminilakenk`, `icelaked`, `r1000nk` or `v1000nk`). VCRT installs binaries you can point any app or script at.
+> Hardware acceleration is x86-64 only. VCRT installs binaries you can point any app or script at.
 
 <sub>📦 Package Center → Community → **Video Compute Runtime**, plus **- Intel** or **- AMD** for your GPU</sub>
 
