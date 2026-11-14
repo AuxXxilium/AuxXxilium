@@ -25,9 +25,11 @@ Both run on a wide range of hardware — bare metal, mini-PC or VM.
 
 ---
 
-## 📦 Projects
+<br>
 
-**Everything below is part of the Arc ecosystem. Each project stands on its own, but they are built to work together.**
+<h2 align="center">📦 Projects</h2>
+
+<p align="center"><b>Everything below is part of the Arc ecosystem. Each project stands on its own, but they are built to work together.</b></p>
 
 <br>
 
@@ -150,11 +152,11 @@ A hosted portal for your Arc systems — config backup, free DDNS, live monitori
 
 ---
 
-## 🖥️ DSM Apps
+<br>
 
-**The following install directly in DSM. Add the package source once, then find them in Package Center → Community:**
+<h2 align="center">🖥️ DSM Apps</h2>
 
-**Updates then arrive through Package Center like any other app — no manual `.spk` download needed.**
+<p align="center"><b>The following install directly in DSM. Add the package source once, then find them in Package Center → Community.<br>Updates then arrive through Package Center like any other app — no manual <code>.spk</code> download needed.</b></p>
 
 <br>
 
@@ -274,9 +276,11 @@ A modern, fully hardware-accelerated FFmpeg for DSM — Intel Quick Sync, AMD VC
 
 ---
 
-## 🧩 Other Projects
+<br>
 
-**Standalone projects that are not directly related to Arc, Arx or DSM.**
+<h2 align="center">🧩 Other Projects</h2>
+
+<p align="center"><b>Standalone projects that are not directly related to Arc, Arx or DSM.</b></p>
 
 <br>
 
