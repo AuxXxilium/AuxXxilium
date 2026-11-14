@@ -150,13 +150,11 @@ A hosted portal for your Arc systems — config backup, free DDNS, live monitori
 
 ---
 
-<br>
+## 🖥️ DSM Apps
 
-### 🖥️ DSM Apps
+**The following install directly in DSM. Add the package source once, then find them in Package Center → Community:**
 
-The following install directly in DSM. Add the package source once, then find them in **Package Center → Community**:
-
-Updates then arrive through Package Center like any other app — no manual `.spk` download needed.
+**Updates then arrive through Package Center like any other app — no manual `.spk` download needed.**
 
 <br>
 
@@ -276,11 +274,9 @@ A modern, fully hardware-accelerated FFmpeg for DSM — Intel Quick Sync, AMD VC
 
 ---
 
-<br>
+## 🧩 Other Projects
 
-### 🧩 Other Projects
-
-Standalone projects that are not directly related to Arc, Arx or DSM.
+**Standalone projects that are not directly related to Arc, Arx or DSM.**
 
 <br>
 
