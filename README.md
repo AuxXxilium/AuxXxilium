@@ -152,29 +152,6 @@ A hosted portal for your Arc systems — config backup, free DDNS, live monitori
 
 <br>
 
-### <img src="https://img.shields.io/badge/-One_UI-DB2777?style=flat-square" height="20"> One UI
-
-A UI to rule them all — the same cards, buttons, colours and dark mode for every Arc app, so moving between them feels like using one product.
-
-<p align="center"><img src="screenshots/one-ui.png" width="720" alt="One UI overview in dark mode"></p>
-
-* **Two ways to use it** — a Tailwind preset with ready-made Preact components, or one CSS file and a small script for plain HTML with no build step; both look the same and share their settings
-* **Light, dark, colour and glass** — one appearance menu for light or dark, solid or glass surfaces, and five highlight colours (Red, Blue, Amber, Graphite, Pastel Green), remembered in the browser
-* **Ready-made layout** — `AppShell` with a sidebar that folds away on a phone, page headers, cards, tabs, tiles, buttons, status badges, form fields, modals, notices, progress bars and tables
-* **Status colours that stay put** — green always means good and red always means a problem, whatever the highlight colour
-* **App icons** — one script turns a flat icon into the frosted, frosted 3D or glyph 3D style the Arc apps use, keeping the symbol pixel for pixel
-* **Live demo** — every element with sample content, in light, dark and glass
-
-> [!NOTE]
-> GPL-3.0. Every use, in full or in part, must credit [AuxXxilium](https://github.com/AuxXxilium) (development) and [Fulcrum](https://github.com/FulcrumCode) (theme and design) where users can see it; `AppShell` and `<Credits />` already do.
-
-<sub><a href="https://github.com/AuxXxilium/one-ui">Repository</a> ·
-<a href="https://auxxxilium.github.io/one-ui/demo/">Live demo</a></sub>
-
----
-
-<br>
-
 ### 🖥️ DSM Apps
 
 The following install directly in DSM. Add the package source once, then find them in **Package Center → Community**:
@@ -296,6 +273,58 @@ A modern, fully hardware-accelerated FFmpeg for DSM — Intel Quick Sync, AMD VC
 > Hardware acceleration is x86-64 only. VCRT installs binaries you can point any app or script at.
 
 <sub>📦 Package Center → Community → **Video Compute Runtime**, plus **- Intel** or **- AMD** for your GPU</sub>
+
+---
+
+<br>
+
+### 🧩 Other Projects
+
+Standalone projects that are not directly related to Arc, Arx or DSM.
+
+<br>
+
+### <img src="https://img.shields.io/badge/-Ignis-EA580C?style=flat-square" height="20"> Ignis
+
+An all-in-one hypervisor for your own x86-64 PC or server — virtual machines, containers and apps, installed once and managed from the browser.
+
+<p align="center"><img src="screenshots/ignis.png" width="720" alt="Ignis virtual machines page"></p>
+
+* **Virtual machines** — Windows and Linux with TPM 2.0 and Secure Boot, a screen in the browser, snapshots, scheduled backups, import from ESXi, Hyper-V, VirtualBox or `.ova`, and passthrough for GPUs, NICs, controllers, USB and whole disks
+* **Containers** — Docker and compose projects with logs, live usage and updates that roll back if they fail
+* **Storage and the host** — system on one disk or a mirror, data on software RAID, disk health checks, live monitoring and history, and several hosts linked into one interface
+* **Apps from the Extensions tab** — network shares, Drive, Photos, Video Station, Surveillance, Web Station, VPN, game servers, AI and more, each updated on its own
+* **DSM machines** — an app that sets up DSM virtual machines with the Arx loader and keeps the loader up to date
+* **Safe updates** — the system is replaced as a whole and the previous version stays in the boot menu, while machines, containers and app data are never touched
+
+> [!WARNING]
+> Ignis is a complete system that installs to the machine's own disks and **erases every disk you select** for it. It does not run alongside another operating system.
+
+<sub><a href="https://github.com/AuxXxilium/ignis-hv">Repository</a> ·
+<a href="https://github.com/AuxXxilium/ignis-hv/releases/latest">Download</a></sub>
+
+---
+
+<br>
+
+### <img src="https://img.shields.io/badge/-One_UI-DB2777?style=flat-square" height="20"> One UI
+
+A UI to rule them all — the same cards, buttons, colours and dark mode for every Arc app, so moving between them feels like using one product.
+
+<p align="center"><img src="screenshots/one-ui.png" width="720" alt="One UI overview in dark mode"></p>
+
+* **Two ways to use it** — a Tailwind preset with ready-made Preact components, or one CSS file and a small script for plain HTML with no build step; both look the same and share their settings
+* **Light, dark, colour and glass** — one appearance menu for light or dark, solid or glass surfaces, and five highlight colours (Red, Blue, Amber, Graphite, Pastel Green), remembered in the browser
+* **Ready-made layout** — `AppShell` with a sidebar that folds away on a phone, page headers, cards, tabs, tiles, buttons, status badges, form fields, modals, notices, progress bars and tables
+* **Status colours that stay put** — green always means good and red always means a problem, whatever the highlight colour
+* **App icons** — one script turns a flat icon into the frosted, frosted 3D or glyph 3D style the Arc apps use, keeping the symbol pixel for pixel
+* **Live demo** — every element with sample content, in light, dark and glass
+
+> [!NOTE]
+> GPL-3.0. Every use, in full or in part, must credit [AuxXxilium](https://github.com/AuxXxilium) (development) and [Fulcrum](https://github.com/FulcrumCode) (theme and design) where users can see it; `AppShell` and `<Credits />` already do.
+
+<sub><a href="https://github.com/AuxXxilium/one-ui">Repository</a> ·
+<a href="https://auxxxilium.github.io/one-ui/demo/">Live demo</a></sub>
 
 ---
 
