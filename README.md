@@ -222,7 +222,7 @@ A standalone QEMU/KVM hypervisor packaged for DSM — virtual machines with real
 * **Coexists with Synology VMM** — never touches its libvirtd or API
 
 > [!NOTE]
-> Arc VMM is in beta. Requires DSM 7.x on x86-64 with hardware virtualization; IOMMU for passthrough.
+> Arc VMM is in beta. Requires DSM 7.x on a Linux 5.x model (kernel 5.10.55: `epyc7002`, `epyc7003`, `geminilakenk`, `icelaked`, `r1000nk` or `v1000nk`) with hardware virtualization; IOMMU for passthrough.
 > Designed to work flawlessly with the [Arc Custom Kernel](https://github.com/AuxXxilium/arc-custom) (`legacy`).
 
 <sub>📦 Package Center → Community → **Arc VMM**</sub>
@@ -247,7 +247,7 @@ A container manager for DSM with its own, current Docker engine — independent 
 * **Coexists with Container Manager** — its own daemon, socket and image store; never touches Synology's
 
 > [!NOTE]
-> Arc Container is in beta. Requires DSM 7.x on x86-64 and the Arc or Arx Loader. Images and containers are not shared with Container Manager, and both cannot publish the same host port.
+> Arc Container is in beta. Requires DSM 7.x on a Linux 5.x model (kernel 5.10.55: `epyc7002`, `epyc7003`, `geminilakenk`, `icelaked`, `r1000nk` or `v1000nk`) and the Arc or Arx Loader. Images and containers are not shared with Container Manager, and both cannot publish the same host port.
 > Designed to work flawlessly with the [Arc Custom Kernel](https://github.com/AuxXxilium/arc-custom) (`legacy`).
 
 <sub>📦 Package Center → Community → **Arc Container**</sub>
@@ -294,7 +294,7 @@ A modern, fully hardware-accelerated FFmpeg for DSM — Intel Quick Sync, AMD VC
 * **GPU diagnostics included** — `vainfo`, `vulkaninfo`, `clinfo` and render node permission setup
 
 > [!NOTE]
-> Hardware acceleration is x86-64 only. VCRT installs binaries you can point any app or script at.
+> Requires a Linux 5.x model (kernel 5.10.55: `epyc7002`, `epyc7003`, `geminilakenk`, `icelaked`, `r1000nk` or `v1000nk`). VCRT installs binaries you can point any app or script at.
 
 <sub>📦 Package Center → Community → **Video Compute Runtime**, plus **- Intel** or **- AMD** for your GPU</sub>
 
