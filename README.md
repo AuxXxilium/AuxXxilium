@@ -326,6 +326,28 @@ A browser space strategy game — grow your planets, research technology, build 
 
 <br>
 
+### <img src="https://img.shields.io/badge/-Zeiterfassung-F59E0B?style=flat-square" height="20"> Zeiterfassung
+
+Time tracking, jobs and work reports for trade businesses — in the browser on the desktop and on the phone, where it installs like an app and keeps working offline. The interface is in German.
+
+<p align="center"><img src="screenshots/zeiterfassung.png" width="720" alt="Zeiterfassung start page with time clock and open jobs"></p>
+
+* **Time clock** — clock in, pause and clock out, optionally with location; a month view per day with vacation, sick days and public holidays of every German state
+* **Overtime and monthly report** — an overtime account with history and payouts, and a monthly PDF in the layout of the DATEV working-time template, ready to send to payroll
+* **Jobs and calendar** — open jobs with dates spanning days or weeks, assigned to a worker or to everyone, alongside vacation and training in one calendar
+* **Work reports** — who worked where and how long, the work done, materials (typed, from a catalogue or as a straightened photo of a handwritten list), photos and signature, as a PDF or by e-mail
+* **Customers, stock and lists** — a customer file that fills itself, stock levels with reorder PDFs, and custom keyword lists such as maintenance with due dates per customer
+* **Roles and audit log** — employees, a boss and administrators, visible areas per user, and every change logged with who, when and what
+* **One file to run** — a single Linux binary behind nginx, Apache or Plesk; SQLite built in, MySQL/MariaDB optional
+
+<sub><a href="https://github.com/AuxXxilium/zeiterfassung">Repository &amp; guide</a> ·
+<a href="https://github.com/AuxXxilium/zeiterfassung/blob/main/INSTALLATION.md">Installation</a> ·
+<a href="https://github.com/AuxXxilium/zeiterfassung/releases/latest">Download</a></sub>
+
+---
+
+<br>
+
 ### <img src="https://img.shields.io/badge/-One_UI-DB2777?style=flat-square" height="20"> One UI
 
 A UI to rule them all — the same cards, buttons, colours and dark mode for every Arc app, so moving between them feels like using one product.
