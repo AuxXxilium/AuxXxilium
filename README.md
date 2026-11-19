@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/logo-banner.jpg" width="845" alt="AuxXxilium">
+<img src="screenshots/logo-banner-rounded.png" width="845" alt="AuxXxilium">
 
 <br>
 
