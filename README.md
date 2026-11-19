@@ -1,21 +1,56 @@
 <div align="center">
 
-<img width="845" alt="Arc Loader" src="https://github.com/AuxXxilium/arc/raw/page/docs/arc_loader.png?raw=true">
+# AuxXxilium
 
-### Arc & Arx — customized Redpill Loaders for DSM 7.x
+**Open-source projects for NAS, virtualization, the web and more.**<br>
+Boot loaders and apps for DSM, a full hypervisor, a browser strategy game, a time tracking app and a shared UI kit.
 
-**Arc:** enhanced hardware support, add-ons, guided (semi-automated) installation and a lot of built-in customization.<br>
-**Arx:** the evolution of Arc — the same core, set up entirely from your browser.<br>
-Both run on a wide range of hardware — bare metal, mini-PC or VM.
-
-<a href="https://github.com/AuxXxilium/arc/releases/latest"><img alt="Stable" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=stable&color=%23FF0000"></a>
-<a href="https://github.com/AuxXxilium/arc-beta/releases/latest"><img alt="Beta" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=beta&color=%23FF0000"></a>
-<a href="https://github.com/AuxXxilium/arx/releases/latest"><img alt="Arx" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=arx&color=%23B91C1C"></a>
-<a href="https://xpenology.tech/wiki"><img alt="Wiki" src="https://img.shields.io/badge/read_first-blue?style=for-the-badge&label=wiki&color=%230066CC"></a>
+[![Discord](https://img.shields.io/discord/639072565155069962?style=for-the-badge&logo=discord&label=Discord)](https://discord.auxxxilium.tech)
+[![Wiki](https://img.shields.io/badge/read_first-blue?style=for-the-badge&label=wiki&color=%230066CC)](https://xpenology.tech/wiki)
 
 </div>
 
 ---
+
+<h2 align="center">🗺️ Overview</h2>
+
+#### 📦 Arc Ecosystem — loaders and services for DSM 7.x
+
+| Project | What it is | Links |
+| :-- | :-- | :-- |
+| <img src="https://img.shields.io/badge/-Arc-FF0000?style=flat-square" height="18"> | [**Arc**](#arc) — guided Redpill loader that turns almost any x64 PC, mini-PC or VM into a DSM box | [Repo](https://github.com/AuxXxilium/arc) · [Download](https://github.com/AuxXxilium/arc/releases/latest) |
+| <img src="https://img.shields.io/badge/-Arx-B91C1C?style=flat-square" height="18"> | [**Arx**](#arx) — the evolution of Arc, set up entirely from your browser | [Repo](https://github.com/AuxXxilium/arx) · [Download](https://github.com/AuxXxilium/arx/releases/latest) |
+| <img src="https://img.shields.io/badge/-Flash-F97316?style=flat-square" height="18"> | [**Arc/Arx Flash**](#flash) — USB writer that flashes and updates loader sticks without losing settings | [Repo](https://github.com/AuxXxilium/arc-flash) · [Download](https://github.com/AuxXxilium/arc-flash/releases/latest) |
+| <img src="https://img.shields.io/badge/-Kernel-5B21B6?style=flat-square" height="18"> | [**Arc Custom Kernel**](#kernel) — DSM kernels with modern GPU, network and storage drivers | [Repo](https://github.com/AuxXxilium/arc-custom) |
+| <img src="https://img.shields.io/badge/-Connect-10B981?style=flat-square" height="18"> | [**Arc Connect**](#connect) *(beta)* — reach your NAS from anywhere without port forwarding | — |
+| <img src="https://img.shields.io/badge/-Web-2563EB?style=flat-square" height="18"> | [**Arc Web Management**](#web) — config backup, free DDNS, live monitoring and benchmarks | [Portal](https://arc.auxxxilium.tech) |
+
+#### 🖥️ DSM Apps — install from Package Center → Community
+
+| Project | What it is | Links |
+| :-- | :-- | :-- |
+| <img src="https://img.shields.io/badge/-Control-0EA5E9?style=flat-square" height="18"> | [**Arc Control**](#control) — loader config, monitoring, fan and CPU tuning right on the DSM desktop | [Repo](https://github.com/AuxXxilium/arc-control) |
+| <img src="https://img.shields.io/badge/-VMM-F59E0B?style=flat-square" height="18"> | [**Arc VMM**](#vmm) *(beta)* — QEMU/KVM hypervisor for DSM with real PCI and GPU passthrough | Package Center |
+| <img src="https://img.shields.io/badge/-Container-2496ED?style=flat-square" height="18"> | [**Arc Container**](#container) *(beta)* — container manager with its own, current Docker engine | Package Center |
+| <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square" height="18"> | [**Syno NVIDIA Driver**](#nvidia) — NVIDIA GPU driver for DSM, with CUDA, NVENC and Docker support | Package Center |
+| <img src="https://img.shields.io/badge/-VCRT-8B5CF6?style=flat-square" height="18"> | [**Video Compute Runtime**](#vcrt) — hardware-accelerated FFmpeg for Intel, AMD and NVIDIA | Package Center |
+
+#### 🧩 Other Projects — standalone, not tied to DSM
+
+| Project | What it is | Links |
+| :-- | :-- | :-- |
+| <img src="https://img.shields.io/badge/-Ignis-EA580C?style=flat-square" height="18"> | [**Ignis**](#ignis) — all-in-one hypervisor for VMs, containers and apps, managed from the browser | [Repo](https://github.com/AuxXxilium/ignis-hv) · [Download](https://github.com/AuxXxilium/ignis-hv/releases/latest) |
+| <img src="https://img.shields.io/badge/-Nova-7C3AED?style=flat-square" height="18"> | [**Space Nova**](#nova) — browser space strategy game in an uncharted 3D galaxy | [Repo](https://github.com/AuxXxilium/nova) |
+| <img src="https://img.shields.io/badge/-Zeiterfassung-F59E0B?style=flat-square" height="18"> | [**Zeiterfassung**](#zeiterfassung) — time tracking, jobs and work reports for trade businesses | [Repo](https://github.com/AuxXxilium/zeiterfassung) · [Download](https://github.com/AuxXxilium/zeiterfassung/releases/latest) |
+| <img src="https://img.shields.io/badge/-One_UI-DB2777?style=flat-square" height="18"> | [**One UI**](#one-ui) — the shared design system behind every Arc app | [Repo](https://github.com/AuxXxilium/one-ui) · [Demo](https://auxxxilium.github.io/one-ui/demo/) |
+
+---
+
+<br>
+
+<h2 align="center">📦 Arc Ecosystem</h2>
+
+<p align="center"><b>Customized Redpill loaders for DSM 7.x and the services around them. Each project stands on its own, but they are built to work together.</b></p>
 
 > [!IMPORTANT]
 > * Arc, Arx and DSM are **independent** from each other — Arc and Arx are boot helpers for DSM.
@@ -23,15 +58,9 @@ Both run on a wide range of hardware — bare metal, mini-PC or VM.
 > * DSM and all parts of it are under copyright / ownership by Synology Inc.
 > * The loaders are free and will stay free forever. If you paid a suspicious person for it, I can't help you — I'm not connected to them.
 
----
-
 <br>
 
-<h2 align="center">📦 Projects</h2>
-
-<p align="center"><b>Everything below is part of the Arc ecosystem. Each project stands on its own, but they are built to work together.</b></p>
-
-<br>
+<a id="arc"></a>
 
 ### <img src="https://img.shields.io/badge/-Arc-FF0000?style=flat-square" height="20"> Arc
 
@@ -54,6 +83,8 @@ The loader itself — guided setup that turns almost any x64 PC, mini-PC or VM i
 ---
 
 <br>
+
+<a id="arx"></a>
 
 ### <img src="https://img.shields.io/badge/-Arx-B91C1C?style=flat-square" height="20"> Arx
 
@@ -79,6 +110,8 @@ The evolution of Arc — the Arc Loader, set up entirely from your browser.
 
 <br>
 
+<a id="flash"></a>
+
 ### <img src="https://img.shields.io/badge/-Flash-F97316?style=flat-square" height="20"> Arc/Arx Flash
 
 The USB writer for Arc and Arx — put a loader on a stick, and update it later without losing its settings.
@@ -99,6 +132,8 @@ The USB writer for Arc and Arx — put a loader on a stick, and update it later 
 
 <br>
 
+<a id="kernel"></a>
+
 ### <img src="https://img.shields.io/badge/-Kernel-5B21B6?style=flat-square" height="20"> Arc Custom Kernel
 
 Custom DSM kernels that add back the hardware Synology's own kernel never knew about.
@@ -115,6 +150,8 @@ Custom DSM kernels that add back the hardware Synology's own kernel never knew a
 ---
 
 <br>
+
+<a id="connect"></a>
 
 ### <img src="https://img.shields.io/badge/-Connect-10B981?style=flat-square" height="20"> Arc Connect &nbsp;<img src="https://img.shields.io/badge/beta-10B981?style=flat-square" height="18">
 
@@ -135,6 +172,8 @@ Reach your NAS from anywhere without port forwarding — a self-hosted alternati
 ---
 
 <br>
+
+<a id="web"></a>
 
 ### <img src="https://img.shields.io/badge/-Web-2563EB?style=flat-square" height="20"> Arc Web Management
 
@@ -160,6 +199,8 @@ A hosted portal for your Arc systems — config backup, free DDNS, live monitori
 
 <br>
 
+<a id="control"></a>
+
 ### <img src="https://img.shields.io/badge/-Control-0EA5E9?style=flat-square" height="20"> Arc Control
 
 A DSM app that brings loader configuration, monitoring and hardware tuning to your Synology desktop — no reboot into config mode needed.
@@ -181,6 +222,8 @@ A DSM app that brings loader configuration, monitoring and hardware tuning to yo
 ---
 
 <br>
+
+<a id="vmm"></a>
 
 ### <img src="https://img.shields.io/badge/-VMM-F59E0B?style=flat-square" height="20"> Arc VMM &nbsp;<img src="https://img.shields.io/badge/beta-F59E0B?style=flat-square" height="18">
 
@@ -207,6 +250,8 @@ A standalone QEMU/KVM hypervisor packaged for DSM — virtual machines with real
 
 <br>
 
+<a id="container"></a>
+
 ### <img src="https://img.shields.io/badge/-Container-2496ED?style=flat-square" height="20"> Arc Container &nbsp;<img src="https://img.shields.io/badge/beta-2496ED?style=flat-square" height="18">
 
 A container manager for DSM with its own, current Docker engine — independent of Synology's Container Manager and the Docker version it is stuck on.
@@ -232,6 +277,8 @@ A container manager for DSM with its own, current Docker engine — independent 
 
 <br>
 
+<a id="nvidia"></a>
+
 ### <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square" height="20"> Syno NVIDIA Driver
 
 Run a real NVIDIA GPU on your NAS — install the driver from DSM and pass it into Docker.
@@ -255,6 +302,8 @@ Run a real NVIDIA GPU on your NAS — install the driver from DSM and pass it in
 ---
 
 <br>
+
+<a id="vcrt"></a>
 
 ### <img src="https://img.shields.io/badge/-VCRT-8B5CF6?style=flat-square" height="20"> Video Compute Runtime (VCRT)
 
@@ -284,6 +333,8 @@ A modern, fully hardware-accelerated FFmpeg for DSM — Intel Quick Sync, AMD VC
 
 <br>
 
+<a id="ignis"></a>
+
 ### <img src="https://img.shields.io/badge/-Ignis-EA580C?style=flat-square" height="20"> Ignis
 
 An all-in-one hypervisor for your own x86-64 PC or server — virtual machines, containers and apps, installed once and managed from the browser.
@@ -307,6 +358,8 @@ An all-in-one hypervisor for your own x86-64 PC or server — virtual machines, 
 
 <br>
 
+<a id="nova"></a>
+
 ### <img src="https://img.shields.io/badge/-Nova-7C3AED?style=flat-square" height="20"> Space Nova
 
 A browser space strategy game — grow your planets, research technology, build fleets and explore an uncharted 3D galaxy where every world is revealed only when a fleet first reaches it.
@@ -325,6 +378,8 @@ A browser space strategy game — grow your planets, research technology, build 
 ---
 
 <br>
+
+<a id="zeiterfassung"></a>
 
 ### <img src="https://img.shields.io/badge/-Zeiterfassung-F59E0B?style=flat-square" height="20"> Zeiterfassung
 
@@ -347,6 +402,8 @@ Time tracking, jobs and work reports for trade businesses — in the browser on 
 ---
 
 <br>
+
+<a id="one-ui"></a>
 
 ### <img src="https://img.shields.io/badge/-One_UI-DB2777?style=flat-square" height="20"> One UI
 
@@ -379,7 +436,7 @@ A UI to rule them all — the same cards, buttons, colours and dark mode for eve
 
 ---
 
-## ⬇️ Download
+## ⬇️ Download Arc & Arx
 
 | Release | Download | Version | Downloads |
 | :-- | :-- | :-- | :-- |
