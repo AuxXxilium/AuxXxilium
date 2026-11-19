@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="screenshots/banner.jpg" width="845" alt="AuxXxilium">
+<img src="screenshots/logo-banner.jpg" width="845" alt="AuxXxilium">
 
-**Open-source projects for NAS, virtualization, the web and more.**<br>
+<br>
+
+### Open-source projects for NAS, virtualization, the web and more
+
 Boot loaders and apps for DSM, a full hypervisor, a browser strategy game, a time tracking app and a shared UI kit.
 
 [![Discord](https://img.shields.io/discord/639072565155069962?style=for-the-badge&logo=discord&label=Discord)](https://discord.auxxxilium.tech)
