@@ -13,8 +13,6 @@ Boot loaders and apps for DSM, a full hypervisor, a browser strategy game, a tim
 
 </div>
 
----
-
 <h2 align="center">🗺️ Overview</h2>
 
 <h4 align="center">📦 Arc Ecosystem - loaders and services for DSM 7.x</h4>
@@ -47,8 +45,6 @@ Boot loaders and apps for DSM, a full hypervisor, a browser strategy game, a tim
 | <img src="https://img.shields.io/badge/-Nova-7C3AED?style=flat-square" height="18"> | [**Space Nova**](#nova) - browser space strategy game in an uncharted 3D galaxy | [Repo](https://github.com/AuxXxilium/nova) |
 | <img src="https://img.shields.io/badge/-Zeiterfassung-F59E0B?style=flat-square" height="18"> | [**Zeiterfassung**](#zeiterfassung) - time tracking, jobs and work reports for trade businesses | [Repo](https://github.com/AuxXxilium/zeiterfassung) · [Download](https://github.com/AuxXxilium/zeiterfassung/releases/latest) |
 | <img src="https://img.shields.io/badge/-One_UI-DB2777?style=flat-square" height="18"> | [**One UI**](#one-ui) - the shared design system behind every Arc app | [Repo](https://github.com/AuxXxilium/one-ui) · [Demo](https://auxxxilium.github.io/one-ui/demo/) |
-
----
 
 <br>
 
@@ -84,8 +80,6 @@ The loader itself - guided setup that turns almost any x64 PC, mini-PC or VM int
 <sub><a href="https://github.com/AuxXxilium/arc">Repository</a> ·
 <a href="https://github.com/AuxXxilium/arc/releases/latest">Releases</a></sub>
 
----
-
 <br>
 
 <a id="arx"></a>
@@ -110,8 +104,6 @@ The evolution of Arc - the Arc Loader, set up entirely from your browser.
 <sub><a href="https://github.com/AuxXxilium/arx">Repository</a> ·
 <a href="https://github.com/AuxXxilium/arx/releases/latest">Releases</a></sub>
 
----
-
 <br>
 
 <a id="flash"></a>
@@ -132,8 +124,6 @@ The USB writer for Arc and Arx - put a loader on a stick, and update it later wi
 <sub><a href="https://github.com/AuxXxilium/arc-flash">Repository</a> ·
 <a href="https://github.com/AuxXxilium/arc-flash/releases/latest">Releases</a></sub>
 
----
-
 <br>
 
 <a id="kernel"></a>
@@ -150,8 +140,6 @@ Custom DSM kernels that add back the hardware Synology's own kernel never knew a
 * **Virtualization & extras** - VFIO/GPU passthrough, virtio-fs, Hyper-V and VMware support, exFAT/NTFS/FUSE, USB4/Thunderbolt and Coral Edge TPU drivers
 
 <sub>Built kernels are published as <a href="https://github.com/AuxXxilium/arc-custom">Arc Custom</a>.</sub>
-
----
 
 <br>
 
@@ -173,8 +161,6 @@ Reach your NAS from anywhere without port forwarding - a self-hosted alternative
 > [!NOTE]
 > Arc Connect is in beta. The token is the only credential in front of DSM's own login, so treat it like a password. Traffic is TLS-encrypted.
 
----
-
 <br>
 
 <a id="web"></a>
@@ -192,8 +178,6 @@ A hosted portal for your Arc systems - config backup, free DDNS, live monitoring
 * **Shared dark mode** - matches the look of Arc Control and the loader web config
 
 <sub>🌐 <a href="https://arc.auxxxilium.tech">arc.xpenology.tech</a></sub>
-
----
 
 <br>
 
@@ -223,8 +207,6 @@ A DSM app that brings loader configuration, monitoring and hardware tuning to yo
 
 <sub>📦 Package Center → Community → **Arc Control**</sub>
 
----
-
 <br>
 
 <a id="vmm"></a>
@@ -249,8 +231,6 @@ A standalone QEMU/KVM hypervisor packaged for DSM - virtual machines with real P
 > Designed to work flawlessly with the [Arc Custom Kernel](https://github.com/AuxXxilium/arc-custom) (`legacy`).
 
 <sub>📦 Package Center → Community → **Arc VMM**</sub>
-
----
 
 <br>
 
@@ -277,8 +257,6 @@ A container manager for DSM with its own, current Docker engine - independent of
 
 <sub>📦 Package Center → Community → **Arc Container**</sub>
 
----
-
 <br>
 
 <a id="ai"></a>
@@ -302,8 +280,6 @@ Run large language models on your NAS, accelerated by its GPU, and chat with the
 > Arc AI is in beta. x86-64 only, DSM 7.2 and later. NVIDIA acceleration needs the [Syno NVIDIA Driver](#nvidia) package. Conversations with local models never leave the NAS.
 
 <sub>📦 Package Center → Community → **Arc AI**</sub>
-
----
 
 <br>
 
@@ -329,8 +305,6 @@ Run a real NVIDIA GPU on your NAS - install the driver from DSM and pass it into
 
 <sub>📦 Package Center → Community → **NVIDIA Driver**</sub>
 
----
-
 <br>
 
 <a id="vcrt"></a>
@@ -352,8 +326,6 @@ A modern, fully hardware-accelerated FFmpeg for DSM - Intel Quick Sync, AMD VCN 
 > Hardware acceleration is x86-64 only. VCRT installs binaries you can point any app or script at.
 
 <sub>📦 Package Center → Community → **Video Compute Runtime**, plus **- Intel** or **- AMD** for your GPU</sub>
-
----
 
 <br>
 
@@ -384,8 +356,6 @@ An all-in-one hypervisor for your own x86-64 PC or server - virtual machines, co
 <sub><a href="https://github.com/AuxXxilium/ignis-hv">Repository</a> ·
 <a href="https://github.com/AuxXxilium/ignis-hv/releases/latest">Download</a></sub>
 
----
-
 <br>
 
 <a id="nova"></a>
@@ -404,8 +374,6 @@ A browser space strategy game - grow your planets, research technology, build fl
 * **Player guides** - a beginner's guide and in-depth guides for planets, buildings, research, ships, defenses, combat and exploration
 
 <sub><a href="https://github.com/AuxXxilium/nova">Repository &amp; guides</a></sub>
-
----
 
 <br>
 
@@ -428,8 +396,6 @@ Time tracking, jobs and work reports for trade businesses - in the browser on th
 <sub><a href="https://github.com/AuxXxilium/zeiterfassung">Repository &amp; guide</a> ·
 <a href="https://github.com/AuxXxilium/zeiterfassung/blob/main/INSTALLATION.md">Installation</a> ·
 <a href="https://github.com/AuxXxilium/zeiterfassung/releases/latest">Download</a></sub>
-
----
 
 <br>
 
@@ -454,8 +420,6 @@ A UI to rule them all - the same cards, buttons, colours and dark mode for every
 <sub><a href="https://github.com/AuxXxilium/one-ui">Repository</a> ·
 <a href="https://auxxxilium.github.io/one-ui/demo/">Live demo</a></sub>
 
----
-
 ## 🧰 More from the Arc Project
 
 | Project | Description |
@@ -463,8 +427,6 @@ A UI to rule them all - the same cards, buttons, colours and dark mode for every
 | [Arc Loader Beta](https://github.com/AuxXxilium/arc-beta) | Beta releases of the Arc Loader |
 | [Arc Utilities](https://github.com/AuxXxilium/arc-utils) | Tools to install, patch and activate DSM apps on Xpenology |
 | [FAQ & Wiki](https://xpenology.tech/wiki) | **Read this first** |
-
----
 
 ## ⬇️ Download Arc & Arx
 
@@ -476,8 +438,6 @@ A UI to rule them all - the same cards, buttons, colours and dark mode for every
 | **Arc/Arx Flash** | [get it](https://github.com/AuxXxilium/arc-flash/releases/latest) | ![Release](https://img.shields.io/github/v/release/AuxXxilium/arc-flash?sort=date&display_name=release&style=flat-square&logo=github&label=) | ![Downloads](https://img.shields.io/github/downloads/AuxXxilium/arc-flash/total?style=flat-square&logo=github&label=) |
 
 Write the loader image to a USB stick with **[Arc/Arx Flash](https://github.com/AuxXxilium/arc-flash/releases/latest)** *(recommended)*, [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io). Only Arc/Arx Flash can also update a loader stick and keep its settings.
-
----
 
 ## 💬 Social & GitHub
 
