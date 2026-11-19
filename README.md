@@ -17,7 +17,7 @@ Boot loaders and apps for DSM, a full hypervisor, a browser strategy game, a tim
 
 <h2 align="center">🗺️ Overview</h2>
 
-#### 📦 Arc Ecosystem — loaders and services for DSM 7.x
+<h4 align="center">📦 Arc Ecosystem — loaders and services for DSM 7.x</h4>
 
 | Project | What it is | Links |
 | :-- | :-- | :-- |
@@ -28,7 +28,7 @@ Boot loaders and apps for DSM, a full hypervisor, a browser strategy game, a tim
 | <img src="https://img.shields.io/badge/-Connect-10B981?style=flat-square" height="18"> | [**Arc Connect**](#connect) *(beta)* — reach your NAS from anywhere without port forwarding | — |
 | <img src="https://img.shields.io/badge/-Web-2563EB?style=flat-square" height="18"> | [**Arc Web Management**](#web) — config backup, free DDNS, live monitoring and benchmarks | [Portal](https://arc.auxxxilium.tech) |
 
-#### 🖥️ DSM Apps — install from Package Center → Community
+<h4 align="center">🖥️ DSM Apps — install from Package Center → Community</h4>
 
 | Project | What it is | Links |
 | :-- | :-- | :-- |
@@ -39,7 +39,7 @@ Boot loaders and apps for DSM, a full hypervisor, a browser strategy game, a tim
 | <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square" height="18"> | [**Syno NVIDIA Driver**](#nvidia) — NVIDIA GPU driver for DSM, with CUDA, NVENC and Docker support | Package Center |
 | <img src="https://img.shields.io/badge/-VCRT-8B5CF6?style=flat-square" height="18"> | [**Video Compute Runtime**](#vcrt) — hardware-accelerated FFmpeg for Intel, AMD and NVIDIA | Package Center |
 
-#### 🧩 Other Projects — standalone, not tied to DSM
+<h4 align="center">🧩 Other Projects — standalone, not tied to DSM</h4>
 
 | Project | What it is | Links |
 | :-- | :-- | :-- |
