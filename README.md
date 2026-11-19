@@ -1,6 +1,6 @@
 <div align="center">
 
-# AuxXxilium
+<img src="screenshots/banner.jpg" width="845" alt="AuxXxilium">
 
 **Open-source projects for NAS, virtualization, the web and more.**<br>
 Boot loaders and apps for DSM, a full hypervisor, a browser strategy game, a time tracking app and a shared UI kit.
@@ -29,9 +29,10 @@ Boot loaders and apps for DSM, a full hypervisor, a browser strategy game, a tim
 
 | Project | What it is | Links |
 | :-- | :-- | :-- |
-| <img src="https://img.shields.io/badge/-Control-0EA5E9?style=flat-square" height="18"> | [**Arc Control**](#control) — loader config, monitoring, fan and CPU tuning right on the DSM desktop | [Repo](https://github.com/AuxXxilium/arc-control) |
+| <img src="https://img.shields.io/badge/-Control-0EA5E9?style=flat-square" height="18"> | [**Arc Control**](#control) — loader config, monitoring, fan and CPU tuning right on the DSM desktop | Package Center |
 | <img src="https://img.shields.io/badge/-VMM-F59E0B?style=flat-square" height="18"> | [**Arc VMM**](#vmm) *(beta)* — QEMU/KVM hypervisor for DSM with real PCI and GPU passthrough | Package Center |
 | <img src="https://img.shields.io/badge/-Container-2496ED?style=flat-square" height="18"> | [**Arc Container**](#container) *(beta)* — container manager with its own, current Docker engine | Package Center |
+| <img src="https://img.shields.io/badge/-AI-6366F1?style=flat-square" height="18"> | [**Arc AI**](#ai) *(beta)* — local LLMs on your NAS GPU plus the big online AI providers in one chat | Package Center |
 | <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square" height="18"> | [**Syno NVIDIA Driver**](#nvidia) — NVIDIA GPU driver for DSM, with CUDA, NVENC and Docker support | Package Center |
 | <img src="https://img.shields.io/badge/-VCRT-8B5CF6?style=flat-square" height="18"> | [**Video Compute Runtime**](#vcrt) — hardware-accelerated FFmpeg for Intel, AMD and NVIDIA | Package Center |
 
@@ -217,7 +218,7 @@ A DSM app that brings loader configuration, monitoring and hardware tuning to yo
 * **Diagnostics** — storage/CPU/encode benchmarks, speedtest, kernel log, module list, browser terminal and a one-click report for support
 * **DSM integration** — desktop app tile plus a widget showing version, temperature, CPU clock, load and disk I/O
 
-<sub>📦 Package Center → Community → **Arc Control** · also published as <a href="https://github.com/AuxXxilium/arc-control">arc-control</a>.</sub>
+<sub>📦 Package Center → Community → **Arc Control**</sub>
 
 ---
 
@@ -272,6 +273,32 @@ A container manager for DSM with its own, current Docker engine — independent 
 > Designed to work flawlessly with the [Arc Custom Kernel](https://github.com/AuxXxilium/arc-custom) (`legacy`).
 
 <sub>📦 Package Center → Community → **Arc Container**</sub>
+
+---
+
+<br>
+
+<a id="ai"></a>
+
+### <img src="https://img.shields.io/badge/-AI-6366F1?style=flat-square" height="20"> Arc AI &nbsp;<img src="https://img.shields.io/badge/beta-6366F1?style=flat-square" height="18">
+
+Run large language models on your NAS, accelerated by its GPU, and chat with the big online AI providers — all from one DSM app.
+
+<p align="center"><img src="screenshots/arc-ai.png" width="600" alt="Arc AI overview"></p>
+
+* **Local models with Ollama** — pull from the Ollama library or Hugging Face, then load, unload or delete them from the UI
+* **GPU acceleration** — NVIDIA (CUDA), Intel (Vulkan, integrated graphics and Arc cards) and AMD (Vulkan, or ROCm where supported); the Vulkan drivers ship with the package
+* **Online providers with your own key** — OpenAI, Anthropic, Google Gemini, Azure OpenAI, Mistral, Groq, OpenRouter, xAI, DeepSeek, Together, Fireworks, Perplexity, Cerebras, Cohere and Hugging Face
+* **Custom endpoints** — as many as you like, speaking OpenAI-compatible (LM Studio, vLLM, LocalAI, llama.cpp, LiteLLM), Anthropic, Gemini or Ollama on another machine
+* **One chat for everything** — streaming answers, folded reasoning, Markdown and code, a system prompt per chat, and conversations saved on the NAS
+* **Files, images and web search** — attach text files, PDFs and images; switch on web search per chat through a built-in SearXNG, your own SearXNG or the Brave Search API, with sources listed in the answer
+* **Universal API** — one endpoint on the NAS for every local and online model, speaking both OpenAI's and Ollama's API behind Arc AI's own access tokens, so apps like Open WebUI or Home Assistant never hold your provider keys
+* **Acceleration check** — checks kernel driver, engine backend and userspace for every GPU and names whatever is missing
+
+> [!NOTE]
+> Arc AI is in beta. x86-64 only, DSM 7.2 and later. NVIDIA acceleration needs the [Syno NVIDIA Driver](#nvidia) package. Conversations with local models never leave the NAS.
+
+<sub>📦 Package Center → Community → **Arc AI**</sub>
 
 ---
 
